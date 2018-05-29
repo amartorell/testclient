@@ -10,7 +10,8 @@ int main(void)
 	const char * port = "80";
 	client c(parser,port);
 	c.connect(c.Gethost().c_str(), c.getPort().c_str());
-	c.sendMessage(c.getMessage().c_str());
+//	c.sendMessage(c.getMessage().c_str());
+	c.sendMessage();
 	c.receiveMessage();
 	//string final= prepareMessage(test.c_str());
 	

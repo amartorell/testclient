@@ -5,10 +5,10 @@ X-Content-Type-Options: nosniff
 Content-Language: en
 X-Frame-Options: SAMEORIGIN
 Content-Type: application/rss+xml; charset=utf-8
-X-Varnish: 1743292524
-X-Varnish-Cache: MISS
-Cache-Control: public, max-age=870
-Date: Tue, 29 May 2018 02:05:14 GMT
+X-Varnish: 1743297718 1743297685
+X-Varnish-Cache: HIT
+Cache-Control: public, max-age=848
+Date: Tue, 29 May 2018 02:16:20 GMT
 Transfer-Encoding:  chunked
 Connection: keep-alive
 Connection: Transfer-Encoding
@@ -2557,7 +2557,7 @@ e are the only technology that provides continuous separation, can readily separ
 &lt;p&gt;&lt;strong&gt;Mingda Li &lt;/strong&gt;will join the Department of Nuclear Science and Engineering as an assistant professor in January 2018. He completed his BS in engineering physics at Tsinghua University in 2009 and his PhD in nuclear science and engineering at MIT in 2015. After that, he carried out research as a postdoc at MIT’s Department of Mechanical Engineering. His Energy Nano Group aims to utilize defects to improve material performance through defect engineering, including experimental and theoretical studies on functional extended defects, controllable defective single crystal growth, AI-aided spectroscopy for defect resolution, and nanoscale energy transport and conversion processes with the presence of defects.&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tami Lieberman &lt;/strong&gt;will join MIT as an assistant professor with dual appointments in the Department of Civil and Environmental Engineering and the Institute for Medical Engineering and Science in January 2018. Lieberman earned a BA in molecular biology and genetics at Northwestern University, where she was awarded a Barry M. Goldwater Scholarship. She earned a PhD in systems biology from Harvard, where she d
-000059E3
+00006000
 eveloped new genomic approaches for understanding how bacteria evolve during infections of individual people. Lieberman is currently a postdoc in Eric J. Alm’s lab at MIT, where she has further developed and applied genomic approaches to understand the microbes that colonize the human body. She will lead a computational and experimental research group focused on uncovering the principles governing colonization, niche range, and personalization in the human microbiome. Lieberman has also made contributions to our understanding of antibiotic resistance, including the co-invention of a new platform for visualizing evolution in real time.&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;David Des Marais &lt;/strong&gt;joined the Department of Civil and Environmental Engineering as an assistant professor in October. He received his BA in integrative biology from the University of California at Berkeley, in 2000, studying plant diversity and evolution, and a PhD in biology from Duke University. His dissertation addressed how multifunctional proteins evolve within and between species. Des Marais did postdoctoral research at the University of Texas at Austin, where he was awarded a fellowship from the U.S. Department of Agriculture’s National Institute of Food and Agriculture to investigate plant responses to multiple environmental stresses experienced concurrently. Most recently, he was a principal investigator in the Department of Organismic and Evolutionary Biology at Harvard, as well as a senior fellow at the Arnold Arboretum. Des Marais’ research interests are in plant ecophysiology, evolutionary biology, and functional genomics. He is particularly interested in plant interactions with the abiotic environment — water, temperature, nutrients, and light — and how plants respond when these factors impose stress. He studies natural diversity within and between plant species both in the field and in controlled environments, and he hopes to develop a mechanistic understanding or plant performance to conserve natural plant populations and to improve agricultural productivity and sustainability.&lt;/p&gt;
@@ -2716,9 +2716,7 @@ eveloped new genomic approaches for understanding how bacteria evolve during inf
 
 
 
-&lt;p&gt;
-00006000
-Lu provided the team with bacterial cells engineered to light up in response to a variety of chemical stimuli. The researchers then came up with a recipe for their 3-D ink, using a combination of bacteria, hydrogel, and nutrients to sustain the cells and maintain their functionality.&lt;/p&gt;
+&lt;p&gt;Lu provided the team with bacterial cells engineered to light up in response to a variety of chemical stimuli. The researchers then came up with a recipe for their 3-D ink, using a combination of bacteria, hydrogel, and nutrients to sustain the cells and maintain their functionality.&lt;/p&gt;
 
 
 
@@ -2734,7 +2732,9 @@ Lu provided the team with bacterial cells engineered to light up in response to 
 
 
 
-&lt;p&gt;The researchers also engineered bacteria to communicate with each other; for instance they programmed some cells to light up only when they receive a certain signal from another cell. To test this type of communication in a 3-D structure, they printed a thin sheet of hydrogel filaments with “input,” or signal-producing bacteria and chemicals, overlaid with another layer of filaments of an “output,” or signal-receiving bacteria. They found the output filaments lit up only when they overlapped and received input signals from corresponding bacteria .&lt;/p&gt;
+&lt;p&gt;The researchers also engineered bacteria to communicate with each other; for instance they programmed some cells to light up only when they receive a certain signa
+00005827
+l from another cell. To test this type of communication in a 3-D structure, they printed a thin sheet of hydrogel filaments with “input,” or signal-producing bacteria and chemicals, overlaid with another layer of filaments of an “output,” or signal-receiving bacteria. They found the output filaments lit up only when they overlapped and received input signals from corresponding bacteria .&lt;/p&gt;
 
 
 
@@ -2863,9 +2863,9 @@ Lu provided the team with bacterial cells engineered to light up in response to 
 
 &lt;p&gt;“The Bridge Project gave us the money to do the science,” says&amp;nbsp;CEO Laura Indolfi, a former postdoc in the laboratory of KI member Elazer Edelman, the Thomas D. and Virginia W. Cabot Professor of Health Sciences and Technology. “Once we saw the results — a &lt;a href=&quot;http://news.mit.edu/2016/implantable-device-targets-pancreatic-cancer-0414&quot; target=&quot;_self&quot;&gt;12&amp;nbsp;times&amp;nbsp;improvement&lt;/a&gt; in response rate&amp;nbsp;for pancreatic cancer — we were able to take that proof-of-concept to&amp;nbsp;business validation as a finalist in the MIT $100K&amp;nbsp;Entrepreneurship Competition, and incubate it.”&lt;/p&gt;
 
-&lt;p&gt;With support from MIT’s Deshpande Center for Technological Innovation, Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop&amp;nbsp;their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are a
-00006000
-lready underway.&lt;/p&gt;
+&lt;p&gt;With support from MIT’s Deshpande Center for Technological Innovation, 
+00004000
+Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop&amp;nbsp;their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are already underway.&lt;/p&gt;
 
 &lt;p&gt;Such clinical impact is usually a long way off for university researchers. The typical “bench to bedside” trajectory is on the order of a decade or more; to have so many projects in pre-clinical studies, pursuing FDA approval for clinical trials in such a short period of time is a testament to the Bridge Project’s goal of meeting the most urgent, unmet needs of cancer care.&lt;/p&gt;
 
@@ -2991,7 +2991,9 @@ lready underway.&lt;/p&gt;
     <description>Strain of intestinal bacteria can stop a high-salt diet from inducing inflammatory response linked to hypertension.</description>
      <pubDate>Wed, 15 Nov 2017 13:00:00 -0500</pubDate>
  <dc:creator>Anne Trafton | MIT News Office</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/gut-microbes-can-protect-against-high-blood-pressure-1115</guid>
+ <guid isPermaLink="true">http://news.mit.edu/2017/gut-microbes-can-protect-against-high-blood-pr
+00004000
+essure-1115</guid>
 <content:encoded>&lt;p&gt;Microbes living in your gut may help protect against the effects of a high-salt diet, according to a new study from MIT.&lt;/p&gt;
 
 
@@ -3090,9 +3092,7 @@ lready underway.&lt;/p&gt;
 
 
 
-&lt;p&gt;The new technique relies on a new type of light-sensitive
-00004311
- protein that can be embedded in neuron cell bodies, combined with holographic light-shaping that can focus light on a single cell.&lt;/p&gt;
+&lt;p&gt;The new technique relies on a new type of light-sensitive protein that can be embedded in neuron cell bodies, combined with holographic light-shaping that can focus light on a single cell.&lt;/p&gt;
 
 
 
@@ -3177,7 +3177,9 @@ lready underway.&lt;/p&gt;
     <link>http://news.mit.edu/2017/synthetic-circuits-can-harvest-light-energy-solar-power-1113</link>
     <description>Novel structures made with DNA scaffolds could be used to create solar-powered materials.</description>
      <pubDate>Mon, 13 Nov 2017 10:59:59 -0500</pubDate>
- <dc:creator>Anne Trafton | MIT News Office</dc:creator>
+ <dc:cre
+000024CD
+ator>Anne Trafton | MIT News Office</dc:creator>
  <guid isPermaLink="true">http://news.mit.edu/2017/synthetic-circuits-can-harvest-light-energy-solar-power-1113</guid>
 <content:encoded>&lt;p&gt;By organizing pigments on a DNA scaffold, an MIT-led team of researchers has designed a light-harvesting material that closely mimics the structure of naturally occurring photosynthetic structures.&lt;/p&gt;
 

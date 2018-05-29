@@ -44,7 +44,8 @@ void client::receiveMessage()
 		{												//se puede sacar el cout despues
 			elapsedSeconds += (currentTime.wall - pastTime.wall) / 1e9;
 			pastTime = currentTime;
-			//cout << "Pasaron " << elapsedSeconds << " segundos." << endl;
+			cout << "Pasaron " << elapsedSeconds << " segundos." << endl;
+			
 		}
 
 		if (!error)
@@ -75,6 +76,19 @@ void client::sendMessage(const char * msg)
 	do
 	{
 		len = socket_forClient->write_some(boost::asio::buffer(msg, strlen(msg)), error);
+	} while ((error.value() == WSAEWOULDBLOCK));
+	if (error)
+		std::cout << "Error while trying to connect to server " << error.message() << std::endl;
+}
+
+void client::sendMessage()
+{
+	size_t len;
+	boost::system::error_code error;
+
+	do
+	{
+		len = socket_forClient->write_some(boost::asio::buffer((message.c_str()), strlen((message.c_str()))), error);
 	} while ((error.value() == WSAEWOULDBLOCK));
 	if (error)
 		std::cout << "Error while trying to connect to server " << error.message() << std::endl;

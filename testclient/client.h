@@ -17,7 +17,10 @@ public:
 						//siempre se queda esperando 10 segundos a que llegue toda la informacion
 	void sendMessage(const char * msg);	//con este mando todo el GET HOST y la linea en blanco que sale si haces "\n"(0d 0a)
 										//pasarle todo ese mensaje como un string concatenado de los 3 agregandole un \n despues de HTTP 1.1 y del Host
-										
+	void sendMessage();					//misma funcion pero sobrecargada para mandar el mensage directamento utilizando el dato miembro
+
+
+
 	void prepareMessage(const char * parser); //setea host y rss a partir del parser
 
 
