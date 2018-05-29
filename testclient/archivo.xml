@@ -5,10 +5,10 @@ X-Content-Type-Options: nosniff
 Content-Language: en
 X-Frame-Options: SAMEORIGIN
 Content-Type: application/rss+xml; charset=utf-8
-X-Varnish: 1741842076
+X-Varnish: 1743292524
 X-Varnish-Cache: MISS
-Cache-Control: public, max-age=718
-Date: Sat, 26 May 2018 19:31:10 GMT
+Cache-Control: public, max-age=870
+Date: Tue, 29 May 2018 02:05:14 GMT
 Transfer-Encoding:  chunked
 Connection: keep-alive
 Connection: Transfer-Encoding
@@ -1340,7 +1340,7 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
 
 
 &lt;p&gt;The MIT team decided to create an open system, which essentially r
-0000044A
+00006000
 emoves the lid and makes it easier to manipulate the system and remove samples for analysis. Their system, adapted from technology they previously developed and commercialized through U.K.-based CN BioInnovations, also incorporates several on-board pumps that can control the flow of liquid between the “organs,” replicating the circulation of blood, immune cells, and proteins through the human body. The pumps also allow larger engineered tissues, for example tumors within an organ, to be evaluated.&lt;/p&gt;
 
 
@@ -1349,9 +1349,7 @@ emoves the lid and makes it easier to manipulate the system and remove samples f
 
 
 
-&lt;p&gt;The researchers created several versions of their chip, linking up to 10 organ types: liver, lung, gut, endometrium, brain, heart, pancreas, kidney, skin, and skeletal muscle. Each “organ” consists of clusters of 1 million to 2 million cells. These tissues don’t replicate the entire organ, but they do perform many of its important functions. Significantly, most of the tissues come directly from patient samples rather than from cell lines that have been developed for lab use. The
-00004000
-se so-called “primary cells” are more difficult to work with but offer a more representative model of organ function, Griffith says.&lt;/p&gt;
+&lt;p&gt;The researchers created several versions of their chip, linking up to 10 organ types: liver, lung, gut, endometrium, brain, heart, pancreas, kidney, skin, and skeletal muscle. Each “organ” consists of clusters of 1 million to 2 million cells. These tissues don’t replicate the entire organ, but they do perform many of its important functions. Significantly, most of the tissues come directly from patient samples rather than from cell lines that have been developed for lab use. These so-called “primary cells” are more difficult to work with but offer a more representative model of organ function, Griffith says.&lt;/p&gt;
 
 
 
@@ -1489,9 +1487,7 @@ se so-called “primary cells” are more difficult to work with but offer a mor
 &lt;p&gt;“I deeply appreciate the honor that comes with being named the first Y. Eva Tan Professor in Neurotechnology,” says Boyden. “This is a tremendous recognition of not only my team’s work, but the groundbreaking impact of the neurotechnology field.”&lt;/p&gt;
 
 &lt;p&gt;Boyden joined MIT in 2007 as an assistant professor at the Media Lab, and later was appointed as a joint professor in the departments of Brain and Cognitive Sciences and Biological Engineering and an investigator in the McGovern Institute. In 2011, he was named the Benesse Career Development Professor, and in 2013 he was awarded the AT&amp;amp;T Career Development Professorship. Seven years after arriving at MIT, he was awarded tenure. Boyden earned his BS and MEng from MIT in 1999 and his PhD in Neuroscience from Stanford University in 2005.&lt;/p&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/avaed.jpg" type="image" width="588" height="358"><media:description type="plain">Y. Eva Tan (left) and McGovern investigator Edward Boyden (right)</media:description><media:credit>Photo: Justin Knight</media:credit></media:content><story:tags>Brain and cognitive sciences, Biological engineering, McGovern Institute, Media Lab, School
-00004000
- of Science, School of Engineering, Faculty, Awards, honors and fellowships, Nanoscience and nanotechnology, School of Architecture and Planning, Giving</story:tags>  </item>
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/avaed.jpg" type="image" width="588" height="358"><media:description type="plain">Y. Eva Tan (left) and McGovern investigator Edward Boyden (right)</media:description><media:credit>Photo: Justin Knight</media:credit></media:content><story:tags>Brain and cognitive sciences, Biological engineering, McGovern Institute, Media Lab, School of Science, School of Engineering, Faculty, Awards, honors and fellowships, Nanoscience and nanotechnology, School of Architecture and Planning, Giving</story:tags>  </item>
   <item>
     <title>Timothy Lu seeks to combat disease by reprogramming biological systems</title>
     <link>http://news.mit.edu/2018/faculty-profile-timothy-lu-0305</link>
@@ -1571,7 +1567,9 @@ se so-called “primary cells” are more difficult to work with but offer a mor
 
 
 
-&lt;p&gt;“When we first started, in the early 2000s, people didn’t care about antibiotic resistance that much. Most antibiotics were still working and people didn’t think it was a big deal,” he says. “But over time, resistance has continued to grow, and the antibiotic pipeline has become drier and drier. So we still firmly believe that we need new strategies. The days when you would just go and dig in the dirt and easily find new antibiotics with broad-spectrum activity are over.”&lt;/p&gt;
+&lt;p&gt;“When we first started, in the early 2000s, people didn’t care about antibiotic resistance that much. Most antibiotics were still working and people didn’t think it was a big deal,” he says. “But over time, resistance has continued to grow, and the antibiotic pipeline has become drier and 
+00006000
+drier. So we still firmly believe that we need new strategies. The days when you would just go and dig in the dirt and easily find new antibiotics with broad-spectrum activity are over.”&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/MIT-Profile-Lu.jpg" type="image" width="948" height="632"><media:description type="plain">Timothy Lu's early interest in computer programming was inspired by his father, who worked as an electrical engineer at IBM.</media:description><media:credit>Image: M. Scott Brauer</media:credit></media:content><story:tags>Research, Faculty, Electrical Engineering &amp; Computer Science (eecs), Biological engineering, School of Engineering, DNA, Microbes, Synthetic biology, Medicine, Health sciences and technology, Profile, Cancer</story:tags>  </item>
   <item>
     <title>Seeing the brain&amp;#039;s electrical activity</title>
@@ -1653,9 +1651,7 @@ se so-called “primary cells” are more difficult to work with but offer a mor
 
 
 &lt;p&gt;The research was funded by the HHMI-Simons Faculty Scholars Program, the IET Harvey Prize, the MIT Media Lab, the New York Stem Cell Foundation Robertson Award, the Open Philanthropy Project, John Doerr, the Human Frontier Science Program, the Department of Defense, the National Science Foundation, and the National Institutes of Health, including an NIH Director’s Pioneer Award.&lt;/p&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/MIT-Voltage-Imaging.jpg" type="image" width="948" height="632"><media:description type="plain">MIT researchers have developed a light-sensitive protein that can be embedded into neuron membranes, where it emits a fluorescent signal that indicates how much voltage a particular cell is experiencing. This could allow scientists to study how neurons behave, millisecond by millisecond, as the brain performs a particular function.</media:description><media:credit>Courtesy of the researchers</media:credit></media:content><story:tags>Research, Brain and cognitive sciences, Biological engineering, Media Lab, McGovern Institute, Sc
-00004000
-hool of Science, School of Engineering, School of Architecture and Planning, Koch Institute, National Science Foundation (NSF), National Institutes of Health (NIH)</story:tags>  </item>
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/MIT-Voltage-Imaging.jpg" type="image" width="948" height="632"><media:description type="plain">MIT researchers have developed a light-sensitive protein that can be embedded into neuron membranes, where it emits a fluorescent signal that indicates how much voltage a particular cell is experiencing. This could allow scientists to study how neurons behave, millisecond by millisecond, as the brain performs a particular function.</media:description><media:credit>Courtesy of the researchers</media:credit></media:content><story:tags>Research, Brain and cognitive sciences, Biological engineering, Media Lab, McGovern Institute, School of Science, School of Engineering, School of Architecture and Planning, Koch Institute, National Science Foundation (NSF), National Institutes of Health (NIH)</story:tags>  </item>
   <item>
     <title>Exploring his depth of field</title>
     <link>http://news.mit.edu/2018/student-profile-corban-swain-0222</link>
@@ -1777,7 +1773,9 @@ hool of Science, School of Engineering, School of Architecture and Planning, Koc
 
 
 
-&lt;p&gt;This new feature helps pave the way for field use, such as during an outbreak. The team has also increased the sensitivity of SHERLOCK and added the capacity to accurately quantify the amount of target in a sample and test for multiple targets at once. All together, these advancements accelerate SHERLOCK’s ability to quickly and precisely detect genetic signatures — including pathogens and tumor DNA — in samples.&lt;/p&gt;
+&lt;p&gt;This new feature helps pave the way for field use, such as during an outbreak. The team has also increased the sensitivity of SHERLOCK and
+00006000
+ added the capacity to accurately quantify the amount of target in a sample and test for multiple targets at once. All together, these advancements accelerate SHERLOCK’s ability to quickly and precisely detect genetic signatures — including pathogens and tumor DNA — in samples.&lt;/p&gt;
 
 
 
@@ -1785,9 +1783,7 @@ hool of Science, School of Engineering, School of Architecture and Planning, Koc
 
 
 
-&lt;p&gt;“SHERLOCK provides an inexpensive, easy-to-use, and sensitive diagnostic method for detecting nucleic acid material — and that can mean a virus, tumor DNA, and many other targets,” said senior author &lt;a href=&quot;https://www.broadinstitute.org/node/7577&quot;&gt;Feng Zhang&lt;/a&gt;, a core institute mem
-00004000
-ber of the Broad Institute, an investigator at the McGovern Institute, and the James and Patricia Poitras ’63 Professor in Neuroscience and associate professor in the departments of Brain and Cognitive Sciences and Biological Engineering at MIT. “The SHERLOCK improvements now give us even more diagnostic information and put us closer to a tool that can be deployed in real-world applications.”&lt;/p&gt;
+&lt;p&gt;“SHERLOCK provides an inexpensive, easy-to-use, and sensitive diagnostic method for detecting nucleic acid material — and that can mean a virus, tumor DNA, and many other targets,” said senior author &lt;a href=&quot;https://www.broadinstitute.org/node/7577&quot;&gt;Feng Zhang&lt;/a&gt;, a core institute member of the Broad Institute, an investigator at the McGovern Institute, and the James and Patricia Poitras ’63 Professor in Neuroscience and associate professor in the departments of Brain and Cognitive Sciences and Biological Engineering at MIT. “The SHERLOCK improvements now give us even more diagnostic information and put us closer to a tool that can be deployed in real-world applications.”&lt;/p&gt;
 
 
 
@@ -1896,9 +1892,7 @@ ber of the Broad Institute, an investigator at the McGovern Institute, and the J
 
 &lt;p&gt;In instances when disease is not detected or treated in time, researchers are developing tools that assist in the recovery process. From optimizing the design of prosthetic feet or building cheaper wheelchairs, mechanical engineers are finding ways to improve the quality of life for those living with the aftermath of disease. This work also includes tools and devices that can be used in physical rehabilitation. One such tool is the MIT-MANUS — a robot developed by Professor Neville Hogan to help stroke victims recover and regain mobility.&lt;/p&gt;
 
-&lt;p&gt;“They say no two snowflakes are alike, well no two stroke patients are alik
-00000877
-e either,” says Hogan. “That makes the problem spectacularly complicated.” Hogan has collaborated with neurologists and neuroscientists on understanding the process of recovery and basic motor control in the brain. He used this knowledge to develop robots that interact with stroke patients and help them regain control of their movements.&lt;/p&gt;
+&lt;p&gt;“They say no two snowflakes are alike, well no two stroke patients are alike either,” says Hogan. “That makes the problem spectacularly complicated.” Hogan has collaborated with neurologists and neuroscientists on understanding the process of recovery and basic motor control in the brain. He used this knowledge to develop robots that interact with stroke patients and help them regain control of their movements.&lt;/p&gt;
 
 &lt;p&gt;MIT-MANUS was originally designed to help restore motor function in stroke patients’ shoulders and elbows. Patients strap their forearm into a brace attached to a robotic arm and grasp onto a controller connected to a video screen. On the screen, a video game provides patients with prompts to move their arm and wrist. If the patient is unable to fully move their arm on their own, MIT-MANUS provides guidance and assists their movements. The robot then tracks and stores this data for physical therapists and specialists to analyze.&lt;/p&gt;
 
@@ -1906,9 +1900,7 @@ e either,” says Hogan. “That makes the problem spectacularly complicated.”
 
 &lt;p&gt;Whether it’s constructing large robots like the MIT-MANUS to help rehabilitate stroke victims, tracking the miniscule movements of organelles in the cell, or using genetic circuits to create stem cells, mechanical engineers are shaping both our fundamental understanding of disease and the way in which doctors approach treatments and therapies.&amp;nbsp;&lt;/p&gt;
 &lt;/div&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/Feature_04_lower.jpg" type="image" width="5760" height="3840"><media:description type="plain">Graduate student James Hermus demonstrates a production robot based on the original MIT-MANUS design in the Eric P. and Evelyn E. Newman Laboratory for Biomechanics and Human Rehabilitation. The robot
-00004000
-, which helps stroke victims recover and regain mobility, represents one of the many ways MIT's mechanical engineering researchers are working to improve health care. </media:description><media:credit>Photo: John Freidah</media:credit></media:content><story:tags>School of Engineering, Bioengineering and biotechnology, Disease, Drug delivery, Health sciences and technology, Institute for Medical Engineering and Science (IMES), Mechanical engineering, Medical devices, Medicine, Microfluidics, Health care, Technology and society, Cancer</story:tags>  </item>
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/Feature_04_lower.jpg" type="image" width="5760" height="3840"><media:description type="plain">Graduate student James Hermus demonstrates a production robot based on the original MIT-MANUS design in the Eric P. and Evelyn E. Newman Laboratory for Biomechanics and Human Rehabilitation. The robot, which helps stroke victims recover and regain mobility, represents one of the many ways MIT's mechanical engineering researchers are working to improve health care. </media:description><media:credit>Photo: John Freidah</media:credit></media:content><story:tags>School of Engineering, Bioengineering and biotechnology, Disease, Drug delivery, Health sciences and technology, Institute for Medical Engineering and Science (IMES), Mechanical engineering, Medical devices, Medicine, Microfluidics, Health care, Technology and society, Cancer</story:tags>  </item>
   <item>
     <title>Fine-tuning cancer medicine</title>
     <link>http://news.mit.edu/2018/fine-tuning-cancer-medicine-0201</link>
@@ -1932,7 +1924,9 @@ e either,” says Hogan. “That makes the problem spectacularly complicated.”
 
 &lt;p&gt;“We believe we can significantly alter cancer patients’ outcomes by determining the right combination of therapies and the right sequence of drugs for the right patients,” says Yaffe. “We’re also concentrating on innovative ways to give these drugs, like time-staggered dosages and nanoparticle delivery.” He notes that, as part of their analyses of drugs and combination regimens currently administered in the clinic, CPCM members expect to identify combinations of drugs that are not as efficacious when given simultaneously as when given sequentially, at specific intervals. Yaffe stresses that these will be important findings that could help reduce the toxicity of treatment by not exposing people to multiple drug toxicities at the same time.&lt;/p&gt;
 
-&lt;p&gt;In parallel with their efforts to use existing drugs more effectively, CPCM investigators are also working to identify compounds, materials, and approaches that can engage key “undruggable” genetic and molecular targets and disrupt processes driving drug resistance. The “undruggable” label often refers to the fact that a target protein or molecule lacks a site to which drugs can bind, and thus is not considered a good drug target by the pharmaceutical industry. However, using novel chemistry approaches, CPCM researchers have made early inroads against several such high-value cancer targets, including specific transcription factors and RNA-binding proteins. The center will continue and expand these efforts as the third part of its research platform, including collaborations with industry.&lt;/p&gt;
+&lt;p&gt;In parallel with their efforts to use existing 
+00006000
+drugs more effectively, CPCM investigators are also working to identify compounds, materials, and approaches that can engage key “undruggable” genetic and molecular targets and disrupt processes driving drug resistance. The “undruggable” label often refers to the fact that a target protein or molecule lacks a site to which drugs can bind, and thus is not considered a good drug target by the pharmaceutical industry. However, using novel chemistry approaches, CPCM researchers have made early inroads against several such high-value cancer targets, including specific transcription factors and RNA-binding proteins. The center will continue and expand these efforts as the third part of its research platform, including collaborations with industry.&lt;/p&gt;
 
 &lt;p&gt;Finally, the fourth component of the CPCM’s efforts will be harnessing MIT’s particular expertise in big data analysis and tools to begin new and expedite existing cancer research efforts. For example, the researchers plan to use data analytics to identify selective panels of biomarkers that can be used to prioritize which of their drug combinations, treatment protocols, and formulations are best suited to a particular patient’s tumor.&lt;/p&gt;
 
@@ -2001,9 +1995,7 @@ In addition, Scheffler says many key players in the early biotech industry still
 &lt;br /&gt;
 Scheffler says the Levitan Prize also comes at the perfect time. “It’s thrilling to receive this award, particularly at the very beginning of a project,” he says. “This research is going to require long hours in the archives and conducting interviews, so support at this early stage jumpstarts the whole endeavor.”&lt;/p&gt;
 
-&lt;p&gt;Scheffler says he plans to interview not just pioneering researchers and company founders, but also the politi
-00004000
-cal leaders, day-to-day lab technicians, and citizen activists involved in biotech. Casting such a wide net will lead to a history that accounts for conflicts, contradictions, and dead ends as well as the industry’s successes.&lt;br /&gt;
+&lt;p&gt;Scheffler says he plans to interview not just pioneering researchers and company founders, but also the political leaders, day-to-day lab technicians, and citizen activists involved in biotech. Casting such a wide net will lead to a history that accounts for conflicts, contradictions, and dead ends as well as the industry’s successes.&lt;br /&gt;
 &lt;br /&gt;
 “I would be so grateful if this award served as a beacon for those people whose experiences and views might otherwise not be included in official records,” he says, such as part-time technical workers, activists, and Kendall Square residents.&lt;br /&gt;
 &lt;br /&gt;
@@ -2070,7 +2062,9 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 &lt;p&gt;“Since the dawn of transplantation as a medical practice, we’ve had to use either identical twins or rare matches that are very compatible immunologically, because we couldn’t engineer the donor or the recipient,” said Church.&lt;/p&gt;
 
-&lt;p&gt;Since it’s clearly unethical to engineer human donors, Church reasoned, why not engineer animals with compatible organs instead? Pigs, to be exact, since most of their organs are comparable in size and function to our own.&lt;/p&gt;
+&lt;p&gt;Since it’s clearly unethical to engineer human donors, Church
+00006000
+ reasoned, why not engineer animals with compatible organs instead? Pigs, to be exact, since most of their organs are comparable in size and function to our own.&lt;/p&gt;
 
 &lt;p&gt;“This is an old dream; I didn’t originate it,” said Church. “It started about 20 years ago, and the pioneers of this field worked on it for a while, but dropped it largely because the number of changes to the genome were daunting, and there was a concern that the viruses all pigs make — retroviruses — would be released and infect the immunocompromised organ recipient.”&lt;/p&gt;
 
@@ -2086,9 +2080,7 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 &lt;p&gt;Church noted these &lt;em&gt;de novo&lt;/em&gt; organoids are extremely useful in determining which genetic variants are responsible for certain diseases. For instance, you could sequence a patient’s genome and then create an entire organoid with the mutation in question to test whether it was the root cause of the condition.&lt;/p&gt;
 
-&lt;p&gt;“I’m still stunned by the breadth of projects and approaches that he’s running simultaneously,” says Emma Kowal, a second-year graduate student, member of Weng’s planning committee, and a former researcher in Church’s lab. “The se
-00006000
-minar series is called Biology at Transformative Frontiers, and George is very much a visionary, so we thought it would be a great way to start things off.”&lt;/p&gt;
+&lt;p&gt;“I’m still stunned by the breadth of projects and approaches that he’s running simultaneously,” says Emma Kowal, a second-year graduate student, member of Weng’s planning committee, and a former researcher in Church’s lab. “The seminar series is called Biology at Transformative Frontiers, and George is very much a visionary, so we thought it would be a great way to start things off.”&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;http://student.mit.edu/searchiap/iap-9289af8d5916df0901591dcb6f2b0135.html&quot;&gt;four-part series&lt;/a&gt; also features Melissa Moore, chief scientific officer of the Moderna Therapeutics mRNA Research Platform, Jay Bradner, president of the Novartis Institutes for BioMedical Research, and Patrick Brown, CEO and founder of Impossible Foods.&amp;nbsp;&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/George_Church_Lecture.JPG" type="image" width="4164" height="2776"><media:description type="plain">George Church gave the first lecture in the Department of Biology’s four-part IAP seminar series, Biology at Transformative Frontiers.</media:description><media:credit>Photo: Raleigh McElvery</media:credit></media:content><story:tags>Biology, Bacteria, Biological engineering, CRISPR, DNA, Genetics, Health care, Research, Synthetic biology, School of Science, Independent Activities Period, Innovation and Entrepreneurship (I&amp;E), Industry, Genome editing, Broad Institute</story:tags>  </item>
@@ -2258,7 +2250,9 @@ minar series is called Biology at Transformative Frontiers, and George is very m
 
 &lt;p&gt;This rapid turnover struck the researchers as similar to Twain’s quote: “The good news may be that if you don’t like the microbial community, just wait for a few days,” they quip at the conclusion of their paper, published in &lt;em&gt;Nature Communications&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;“We know relatively little about how microbial communities — the assemblage of microbes in the ocean — change over time and space,” says Martin Polz, professor of civil and environmental engineering (CEE) at MIT and corresponding author on the paper. “People have gone out and taken samples in distinct locations, so we are getting to know more about the global diversity, but when you go to a particular location and ask, ‘How is it changing over time?’ we actually know relatively little.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;“We know relatively little about how microbial communities — the assemblage of microbes in the ocean — change over time and space,” says Martin Polz, professor of civil and environmental engineering (CEE) at MIT and corresponding author on the paper. “People have gone out and taken samples in distinct locations
+00006000
+, so we are getting to know more about the global diversity, but when you go to a particular location and ask, ‘How is it changing over time?’ we actually know relatively little.”&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;To fill this void, Polz and the research team collected daily ocean water samples from Canoe Cove in Nahant, Massachusetts, over a three-month period.&lt;/p&gt;
 
@@ -2272,9 +2266,7 @@ minar series is called Biology at Transformative Frontiers, and George is very m
 
 &lt;p&gt;“We think the [rapid community changes] are basically set by the ocean physics. We analyzed chemical and physical data and for some of these events we could identify a characteristic period of upwelling, when nutrient rich deep water is transported to the surface and stimulate a certain set of microbes,” says Polz. “We also looked at satellite data, which measures temperature and chlorophyll, and we saw that features developing in the ocean are corresponding with these communities. The physics really sets the chemical and temperature regimes that trigger the blooms of these communities but physical changes probably also terminate them. Because the water is constantly moving, different water bodies mix, and other local features form.”&lt;/p&gt;
 
-&lt;p&gt;In collaboration with Alm and his lab, the researchers also created a new algorithm to analyze the samples and sequence the genes to get a more complete understanding of the patterns and behavior of the microbial communities. Using the algorithm, Cleary explains, the researchers looked for relationships between microbes based on how t
-00006000
-hey are fluctuating throughout the time series.&lt;/p&gt;
+&lt;p&gt;In collaboration with Alm and his lab, the researchers also created a new algorithm to analyze the samples and sequence the genes to get a more complete understanding of the patterns and behavior of the microbial communities. Using the algorithm, Cleary explains, the researchers looked for relationships between microbes based on how they are fluctuating throughout the time series.&lt;/p&gt;
 
 &lt;p&gt;“There are microbes fluctuating around in an environment, but we obviously are not directly observing either the cooperative or competitive interactions between pairs [of microbes], and we aren’t directly observing the low-frequency changes that might correspond to a nutrient regime,” says Cleary. “With our algorithm, we can infer the entire community structure from these fluctuations at different frequency levels.”&lt;/p&gt;
 
@@ -2444,7 +2436,9 @@ hey are fluctuating throughout the time series.&lt;/p&gt;
 
 
 
-&lt;p&gt;Importantly, Adamo says, Zaiput’s continuous-flow, membrane-based separator allows for separation of emulsions, whereby small droplets of one liquid end up in the other liquid, never fully separating. “We don’t have that issue, because we don’t need to wait for liquids to settle,” Adamo says. “We are the only technology that provides continuous separation, can readily separate emulsions, and is also designed for safety, so if you’re dealing with explosive or toxic substances, you can process them quickly.”&lt;/p&gt;
+&lt;p&gt;Importantly, Adamo says, Zaiput’s continuous-flow, membrane-based separator allows for separation of emulsions, whereby small droplets of one liquid end up in the other liquid, never fully separating. “We don’t have that issue, because we don’t need to wait for liquids to settle,” Adamo says. “W
+00006000
+e are the only technology that provides continuous separation, can readily separate emulsions, and is also designed for safety, so if you’re dealing with explosive or toxic substances, you can process them quickly.”&lt;/p&gt;
 
 
 
@@ -2476,9 +2470,7 @@ hey are fluctuating throughout the time series.&lt;/p&gt;
 
 
 
-&lt;p&gt;Currently, Zaiput is developing a production-scale device with a flow rate of 3,000 milliliters per minute, for larger-scale drug manufacturing. The startup is also hoping to more efficiently tackle very complex chemical extractions. Today, this involves repeating chemical extraction processes multiple times in massive columns, about 100 feet high, to ensure as much of the target chemical has been extracted from a liquid. 
-00006000
-But Zaiput hopes it can do the same with a small system of combined modular units. Additionally, the startup hopes to bring the device to traditional batch-separation users, notably those who still work with settling tanks.&lt;/p&gt;
+&lt;p&gt;Currently, Zaiput is developing a production-scale device with a flow rate of 3,000 milliliters per minute, for larger-scale drug manufacturing. The startup is also hoping to more efficiently tackle very complex chemical extractions. Today, this involves repeating chemical extraction processes multiple times in massive columns, about 100 feet high, to ensure as much of the target chemical has been extracted from a liquid. But Zaiput hopes it can do the same with a small system of combined modular units. Additionally, the startup hopes to bring the device to traditional batch-separation users, notably those who still work with settling tanks.&lt;/p&gt;
 
 
 
@@ -2564,15 +2556,15 @@ But Zaiput hopes it can do the same with a small system of combined modular unit
 
 &lt;p&gt;&lt;strong&gt;Mingda Li &lt;/strong&gt;will join the Department of Nuclear Science and Engineering as an assistant professor in January 2018. He completed his BS in engineering physics at Tsinghua University in 2009 and his PhD in nuclear science and engineering at MIT in 2015. After that, he carried out research as a postdoc at MIT’s Department of Mechanical Engineering. His Energy Nano Group aims to utilize defects to improve material performance through defect engineering, including experimental and theoretical studies on functional extended defects, controllable defective single crystal growth, AI-aided spectroscopy for defect resolution, and nanoscale energy transport and conversion processes with the presence of defects.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tami Lieberman &lt;/strong&gt;will join MIT as an assistant professor with dual appointments in the Department of Civil and Environmental Engineering and the Institute for Medical Engineering and Science in January 2018. Lieberman earned a BA in molecular biology and genetics at Northwestern University, where she was awarded a Barry M. Goldwater Scholarship. She earned a PhD in systems biology from Harvard, where she developed new genomic approaches for understanding how bacteria evolve during infections of individual people. Lieberman is currently a postdoc in Eric J. Alm’s lab at MIT, where she has further developed and applied genomic approaches to understand the microbes that colonize the human body. She will lead a computational and experimental research group focused on uncovering the principles governing colonization, niche range, and personalization in the human microbiome. Lieberman has also made contributions to our understanding of antibiotic resistance, including the co-invention of a new platform for visualizing evolution in real time.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tami Lieberman &lt;/strong&gt;will join MIT as an assistant professor with dual appointments in the Department of Civil and Environmental Engineering and the Institute for Medical Engineering and Science in January 2018. Lieberman earned a BA in molecular biology and genetics at Northwestern University, where she was awarded a Barry M. Goldwater Scholarship. She earned a PhD in systems biology from Harvard, where she d
+000059E3
+eveloped new genomic approaches for understanding how bacteria evolve during infections of individual people. Lieberman is currently a postdoc in Eric J. Alm’s lab at MIT, where she has further developed and applied genomic approaches to understand the microbes that colonize the human body. She will lead a computational and experimental research group focused on uncovering the principles governing colonization, niche range, and personalization in the human microbiome. Lieberman has also made contributions to our understanding of antibiotic resistance, including the co-invention of a new platform for visualizing evolution in real time.&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;David Des Marais &lt;/strong&gt;joined the Department of Civil and Environmental Engineering as an assistant professor in October. He received his BA in integrative biology from the University of California at Berkeley, in 2000, studying plant diversity and evolution, and a PhD in biology from Duke University. His dissertation addressed how multifunctional proteins evolve within and between species. Des Marais did postdoctoral research at the University of Texas at Austin, where he was awarded a fellowship from the U.S. Department of Agriculture’s National Institute of Food and Agriculture to investigate plant responses to multiple environmental stresses experienced concurrently. Most recently, he was a principal investigator in the Department of Organismic and Evolutionary Biology at Harvard, as well as a senior fellow at the Arnold Arboretum. Des Marais’ research interests are in plant ecophysiology, evolutionary biology, and functional genomics. He is particularly interested in plant interactions with the abiotic environment — water, temperature, nutrients, and light — and how plants respond when these factors impose stress. He studies natural diversity within and between plant species both in the field and in controlled environments, and he hopes to develop a mechanistic understanding or plant performance to conserve natural plant populations and to improve agricultural productivity and sustainability.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Farnaz Niroui &lt;/strong&gt;will join the Department of Electrical Engineering and Computer Science (EECS) as an assistant professor in January 2019. She received her PhD and master’s degrees in electrical engineering from MIT and a bachelor’s degree in nanotechnology engineering from the University of Waterloo. She is currently a Miller Postdoctoral Fellow at the University of California at Berkeley. Her research integrates electrical engineering with materials science and chemistry to develop hybrid nanofabrication techniques to enable precise yet scalable processing of nanoscale architectures capable of uniquely controlling light-matter interactions, electronic transport, and exciton dynamics to engineer new paradigms of active nanoscale devices. During her graduate studies, Niroui was a recipient of the Engineering Research Council of Canada scholarship, and she was selected for the Rising Stars program in EECS at MIT in 2015 and in 2016 at Carnegie Mellon University.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Desiree Plata &lt;/strong&gt;will join the Department of Civil and Envir
-00006000
-onmental Engineering as an assistant professor in July 2018. She earned her bachelor’s degree in chemistry from Union College in Schenectady, New York, in 2003, and her PhD in chemical oceanography and environmental chemistry from the MIT-Woods Hole Oceanographic Institution’s joint program in oceanography in 2009. Plata is currently the John J. Lee Assistant Professor of Chemical and Environmental Engineering at Yale and associate director for research at the Center for Green Chemistry and Green Engineering at Yale. Previously, she was in the civil and environmental engineering department at Duke, where she was active in several international research networks, such as the EPA-funded LCNano (studying the environmental implications of nanomaterials across the life cycle) and the NSF-funded Partnership for International Research and Education, studying water and commerce as related to the energy sector.&amp;nbsp;Plata’s work is in the area of environmental chemistry, with applications in minimizing the environmental impact of emerging industries — with a particular focus on nanotechnologies across the energy sector. She has made fundamental contributions to the field of heterogeneous catalysis with respect to the bond-building mechanisms in carbon nanotube synthesis, which can be leveraged to lessen environmental impacts. Her work continues to illuminate novel chemistries that occur during environmental transformation processes of organic molecules. Plata is an NSF CAREER awardee, a National Academy of Engineers Frontiers of Engineering fellow, and a two-time National Academy of Sciences Kavli Frontiers of Science fellow, and was recently recognized for excellence by Caltech’s Resnick Sustainability Institute.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Desiree Plata &lt;/strong&gt;will join the Department of Civil and Environmental Engineering as an assistant professor in July 2018. She earned her bachelor’s degree in chemistry from Union College in Schenectady, New York, in 2003, and her PhD in chemical oceanography and environmental chemistry from the MIT-Woods Hole Oceanographic Institution’s joint program in oceanography in 2009. Plata is currently the John J. Lee Assistant Professor of Chemical and Environmental Engineering at Yale and associate director for research at the Center for Green Chemistry and Green Engineering at Yale. Previously, she was in the civil and environmental engineering department at Duke, where she was active in several international research networks, such as the EPA-funded LCNano (studying the environmental implications of nanomaterials across the life cycle) and the NSF-funded Partnership for International Research and Education, studying water and commerce as related to the energy sector.&amp;nbsp;Plata’s work is in the area of environmental chemistry, with applications in minimizing the environmental impact of emerging industries — with a particular focus on nanotechnologies across the energy sector. She has made fundamental contributions to the field of heterogeneous catalysis with respect to the bond-building mechanisms in carbon nanotube synthesis, which can be leveraged to lessen environmental impacts. Her work continues to illuminate novel chemistries that occur during environmental transformation processes of organic molecules. Plata is an NSF CAREER awardee, a National Academy of Engineers Frontiers of Engineering fellow, and a two-time National Academy of Sciences Kavli Frontiers of Science fellow, and was recently recognized for excellence by Caltech’s Resnick Sustainability Institute.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Arvind Satyanarayan &lt;/strong&gt;will join the Department of Electrical Engineering and Computer Science as an assistant professor in July 2018. He received a bachelor’s degree from the University of California at San Diego and a master’s degree from Stanford — both in computer science — and a PhD in computer science from Stanford, working with the University of Washington Interactive Data Lab. Satyanarayan is currently a postdoc at Google Brain, working on improving the interpretability of deep-learning models through visualization. He focuses on developing new declarative languages for interactive visualization and leveraging them in new systems for visualization design and data analysis. His work has also been deployed on Wikipedia to enable interactive visualizations within articles. Satyanarayan’s research has been recognized with a Google PhD fellowship and best-paper awards at the IEEE InfoVis and the Association for Computing Machinery (ACM) Computer-Human Interaction conference.&lt;/p&gt;
 
@@ -2724,7 +2716,9 @@ onmental Engineering as an assistant professor in July 2018. She earned her bach
 
 
 
-&lt;p&gt;Lu provided the team with bacterial cells engineered to light up in response to a variety of chemical stimuli. The researchers then came up with a recipe for their 3-D ink, using a combination of bacteria, hydrogel, and nutrients to sustain the cells and maintain their functionality.&lt;/p&gt;
+&lt;p&gt;
+00006000
+Lu provided the team with bacterial cells engineered to light up in response to a variety of chemical stimuli. The researchers then came up with a recipe for their 3-D ink, using a combination of bacteria, hydrogel, and nutrients to sustain the cells and maintain their functionality.&lt;/p&gt;
 
 
 
@@ -2769,9 +2763,7 @@ onmental Engineering as an assistant professor in July 2018. She earned her bach
     <description>Whitehead Institute researchers detect the chemical mistakes of a common herbicide-resistance enzyme, then successfully re-engineer it for enhanced precision.</description>
      <pubDate>Wed, 29 Nov 2017 17:00:00 -0500</pubDate>
  <dc:creator>Nicole Davis | Whitehead Institute</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/mit-whitehead-institute-study-reveals-imperfect-actor-in-plant-biotechno
-00006000
-logy-1129</guid>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-whitehead-institute-study-reveals-imperfect-actor-in-plant-biotechnology-1129</guid>
 <content:encoded>&lt;p&gt;A research team led by MIT&#039;s Whitehead Institute for Biomedical Research has harnessed metabolomic technologies to unravel the molecular activities of a key protein that&amp;nbsp;enables plants to withstand a common herbicide.&lt;/p&gt;
 
 &lt;p&gt;Their findings reveal how the protein — a kind of catalyst or enzyme&amp;nbsp;first isolated in bacteria and introduced into plants such as corn and soybeans&amp;nbsp;in the 1990s — can sometimes act imprecisely, and how it can be successfully re-engineered to be more precise. The &lt;a href=&quot;https://www.nature.com/articles/s41477-017-0061-1&quot; target=&quot;_blank&quot;&gt;new study&lt;/a&gt;, which appears online in the journal&amp;nbsp;&lt;em&gt;Nature Plants&lt;/em&gt;, raises the standards for bioengineering in the 21st century.&lt;/p&gt;
@@ -2871,7 +2863,9 @@ logy-1129</guid>
 
 &lt;p&gt;“The Bridge Project gave us the money to do the science,” says&amp;nbsp;CEO Laura Indolfi, a former postdoc in the laboratory of KI member Elazer Edelman, the Thomas D. and Virginia W. Cabot Professor of Health Sciences and Technology. “Once we saw the results — a &lt;a href=&quot;http://news.mit.edu/2016/implantable-device-targets-pancreatic-cancer-0414&quot; target=&quot;_self&quot;&gt;12&amp;nbsp;times&amp;nbsp;improvement&lt;/a&gt; in response rate&amp;nbsp;for pancreatic cancer — we were able to take that proof-of-concept to&amp;nbsp;business validation as a finalist in the MIT $100K&amp;nbsp;Entrepreneurship Competition, and incubate it.”&lt;/p&gt;
 
-&lt;p&gt;With support from MIT’s Deshpande Center for Technological Innovation, Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop&amp;nbsp;their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are already underway.&lt;/p&gt;
+&lt;p&gt;With support from MIT’s Deshpande Center for Technological Innovation, Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop&amp;nbsp;their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are a
+00006000
+lready underway.&lt;/p&gt;
 
 &lt;p&gt;Such clinical impact is usually a long way off for university researchers. The typical “bench to bedside” trajectory is on the order of a decade or more; to have so many projects in pre-clinical studies, pursuing FDA approval for clinical trials in such a short period of time is a testament to the Bridge Project’s goal of meeting the most urgent, unmet needs of cancer care.&lt;/p&gt;
 
@@ -2897,9 +2891,7 @@ logy-1129</guid>
 
 &lt;p&gt;“The Bridge Project got off the ground through philanthropic funding,” says Hockfield. “It would have been impossible for us to make those clinically relevant projects work if we had had to wait for the standard grant mechanisms.”&lt;/p&gt;
 
-&lt;p&gt;These initial investments in the Bridge Project are paying off, in the clinic, in the marketplace, and in an increasi
-00006000
-ngly resource-challenged research environment. In September, the Bridge Project was honored by Boston’s life sciences and biotech community, having been chosen by a panel of judges as the winning “&lt;a href=&quot;http://www.xconomy.com/boston/2017/10/16/bridge-project-qa-big-idea-winners-on-connecting-cancer-experts/&quot; target=&quot;_blank&quot;&gt;Big Idea&lt;/a&gt;” at the Xconomy inaugural awards ceremony. Additionally, the collaboration has been credited by some for contributing to the high scores that both partnering institutions received on their respective Cancer Center Support Grant reviews by the National Cancer Institute in 2014.&lt;/p&gt;
+&lt;p&gt;These initial investments in the Bridge Project are paying off, in the clinic, in the marketplace, and in an increasingly resource-challenged research environment. In September, the Bridge Project was honored by Boston’s life sciences and biotech community, having been chosen by a panel of judges as the winning “&lt;a href=&quot;http://www.xconomy.com/boston/2017/10/16/bridge-project-qa-big-idea-winners-on-connecting-cancer-experts/&quot; target=&quot;_blank&quot;&gt;Big Idea&lt;/a&gt;” at the Xconomy inaugural awards ceremony. Additionally, the collaboration has been credited by some for contributing to the high scores that both partnering institutions received on their respective Cancer Center Support Grant reviews by the National Cancer Institute in 2014.&lt;/p&gt;
 
 &lt;div&gt;
 &lt;p&gt;Still, the research will not rest on these laurels, nor will the people behind it. The Bridge Project is, at its heart, about people — patients, researchers, physicians, and all those who keep its momentum moving forward. The Bridge Project is about rapid acceleration of progress. The ideas and technologies being developed in research laboratories have the potential to affect the cancer patients of today and tomorrow, but it is the investigators themselves, together with their philanthropic partners, who are, at an unprecedented rate, bridging the gaps between bench and bedside.&lt;/p&gt;
@@ -3098,7 +3090,9 @@ ngly resource-challenged research environment. In September, the Bridge Project 
 
 
 
-&lt;p&gt;The new technique relies on a new type of light-sensitive protein that can be embedded in neuron cell bodies, combined with holographic light-shaping that can focus light on a single cell.&lt;/p&gt;
+&lt;p&gt;The new technique relies on a new type of light-sensitive
+00004311
+ protein that can be embedded in neuron cell bodies, combined with holographic light-shaping that can focus light on a single cell.&lt;/p&gt;
 
 
 
@@ -3158,9 +3152,7 @@ ngly resource-challenged research environment. In September, the Bridge Project 
 
 
 
-&lt;p&gt;One possible experiment, Boyden says, would be to stimulate neurons connected to each other to try to figure out if one is controlling the others or if they are all receiving input from a far-off controller.&lt;/p&
-00003033
-gt;
+&lt;p&gt;One possible experiment, Boyden says, would be to stimulate neurons connected to each other to try to figure out if one is controlling the others or if they are all receiving input from a far-off controller.&lt;/p&gt;
 
 
 

@@ -3,11 +3,14 @@
 
 using namespace std;
 
-client::client()
+client::client(const char * parser, const char * port)
 {
 	IO_handler = new boost::asio::io_service();
 	socket_forClient = new boost::asio::ip::tcp::socket(*IO_handler);
 	client_resolver = new boost::asio::ip::tcp::resolver(*IO_handler);
+	this->parserline = parser;
+	this->port = port;
+	prepareMessage(parser);
 }
 
 void client::connect(const char * host, const char * port)
@@ -16,16 +19,14 @@ void client::connect(const char * host, const char * port)
 		boost::asio::ip::tcp::resolver::query(host,port ));
 	boost::asio::connect(*socket_forClient, endpoint);
 	socket_forClient->non_blocking(true);
-	
 	std::cout << "conecto" << std::endl;
 }
 
 void client::receiveMessage()
 {
-	//archivo.open("test.xml", ios::binary);
+	
 	ofstream archivo("archivo.xml", ios::binary);
-	//ofstream teste("test2.xml");
-	//archivo.open("test.xml", ios::binary);
+
 	boost::system::error_code error;
 	char buf[0xFFFF];
 	size_t len = 0;
@@ -43,7 +44,7 @@ void client::receiveMessage()
 		{												//se puede sacar el cout despues
 			elapsedSeconds += (currentTime.wall - pastTime.wall) / 1e9;
 			pastTime = currentTime;
-			cout << "Pasaron " << elapsedSeconds << " segundos." << endl;
+			//cout << "Pasaron " << elapsedSeconds << " segundos." << endl;
 		}
 
 		if (!error)
@@ -79,6 +80,21 @@ void client::sendMessage(const char * msg)
 		std::cout << "Error while trying to connect to server " << error.message() << std::endl;
 }
 
+
+void client::prepareMessage(const char * parser)
+{
+	string firstp = "";
+	string secondp = "";
+	stringstream aux(parser);
+	getline(aux, firstp, '/');
+	getline(aux, secondp);
+	host = (firstp);
+	rss = ("/" + secondp);
+	secondp = "GET /" + secondp + " HTTP/1.1\n";				//le pongo la barra ahi despuesdel get pq se borra cuando haces el getline
+	firstp = "Host: " + firstp + "\n";
+	string Final = secondp + firstp + "\n";
+	this->message = Final;
+}
 
 client::~client()
 {
