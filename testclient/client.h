@@ -9,6 +9,7 @@ using namespace std;
 class client
 {
 public:
+	client();
 	client(const char * parser, const char * port);
 
 	void connect(const char* host, const char * port);
@@ -29,11 +30,13 @@ public:
 	void setHost(std::string host_) { this->host = host_; };
 	void setRss(std::string rss_) { this->rss = rss_; };
 	void setPort(const char * port_) { this->port = port_; };
+	void setParser(const char * parser) { this->parserline = parser; };
+
 	string Gethost() { return this->host; };
 	string GetRss() { return this->rss; };
 	string getMessage() { return message; };
 	string getPort() { return port; };
-	
+	string getParser() { return parserline; };
 
 
 

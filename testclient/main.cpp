@@ -8,7 +8,10 @@ int main(void)
 {
 	const char * parser = "news.mit.edu/rss/topic/biological-engineering-and-biotechnology ";
 	const char * port = "80";
-	client c(parser,port);
+	client c;
+	c.setParser(parser);
+	c.setPort(port);
+	c.prepareMessage(parser);
 	c.connect(c.Gethost().c_str(), c.getPort().c_str());
 //	c.sendMessage(c.getMessage().c_str());
 	c.sendMessage();

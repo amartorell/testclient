@@ -5,10 +5,10 @@ X-Content-Type-Options: nosniff
 Content-Language: en
 X-Frame-Options: SAMEORIGIN
 Content-Type: application/rss+xml; charset=utf-8
-X-Varnish: 1743297718 1743297685
-X-Varnish-Cache: HIT
-Cache-Control: public, max-age=848
-Date: Tue, 29 May 2018 02:16:20 GMT
+X-Varnish: 1743311640
+X-Varnish-Cache: MISS
+Cache-Control: public, max-age=853
+Date: Tue, 29 May 2018 02:36:10 GMT
 Transfer-Encoding:  chunked
 Connection: keep-alive
 Connection: Transfer-Encoding
@@ -601,7 +601,7 @@ lt;/p&gt;
     <description>Study projects likely impacts on food prices, bioenergy production, and deforestation.</description>
      <pubDate>Thu, 19 Apr 2018 14:50:01 -0400</pubDate>
  <dc:creator>Mark Dwortzan | MIT Joint Program on the Science and Policy of Global 
-00006000
+000015B7
 Change</dc:creator>
  <guid isPermaLink="true">http://news.mit.edu/2018/gauging-water-scarcity-effects-irrigated-planet-0419</guid>
 <content:encoded>&lt;p&gt;Growing global food demand, climate change, and climate policies favoring bioenergy production are expected to increase pressures on water resources around the world. Many analysts predict that water shortages will constrain the ability of farmers to expand irrigated cropland, which would be critical to ramping up production of both food and bioenergy crops. If true, bioenergy production and food consumption would decline amid rising food prices and pressures to convert forests to rain-fed farmland. Now a team of researchers at the MIT Joint Program on the Science and Policy of Global Change has put this prediction to the test.&lt;/p&gt;
@@ -623,7 +623,9 @@ Change</dc:creator>
 &lt;p&gt;&lt;em&gt;The study was primarily funded by BP.&lt;/em&gt;&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/kellogg-biological-station-mit-irrigation-water-study-00.jpeg" type="image" width="948" height="632"><media:description type="plain">At Michigan State University’s W. K. Kellogg Biological Station, Great Lakes Bioenergy Research Center researchers are evaluating the performance of a variety of novel bioenergy crop production systems for crop yield and quality, impacts on microbial-plant interactions, biogeochemical and biodiversity responses and water use. </media:description><media:credit>Photo: Kurt Stepnitz/Michigan State University Office of Biobased Technologies</media:credit></media:content><story:tags>Alternative energy, Bioengineering and biotechnology, Climate change, Research, Energy, Renewable energy, Joint Program on the Science and Policy of Global Change, MIT Energy Initiative, Agriculture, Food, Water, Population, Economics</story:tags>  </item>
   <item>
-    <title>Startup aims to democratize synthetic biology</title>
+    <title>Startup aims to democratize synthetic b
+00001FBC
+iology</title>
     <link>http://news.mit.edu/2018/startup-amino-labs-synthetic-biology-kits-0419</link>
     <description>Alumna’s mini-lab kits include all necessary tools and materials for anyone to start engineering microbes. </description>
      <pubDate>Wed, 18 Apr 2018 23:59:59 -0400</pubDate>
@@ -717,7 +719,9 @@ Change</dc:creator>
 
 
 
-&lt;p&gt;At first, Legault had no interest in commercialization. When she presented the minilab at conferences around Boston, however, people began asking to buy them. That year, she took the idea to Media Lab’s E14 Fund, which provides stipends, mentoring, networking, and basic legal and accounting services to student entrepreneurs.&lt;/p&gt;
+&lt;p&gt;At first, Legault had no interest in commercialization. When she presented the minilab at conferences around Boston, however, people began asking to buy them. That year, she took the idea to Media Lab’s E
+000025A6
+14 Fund, which provides stipends, mentoring, networking, and basic legal and accounting services to student entrepreneurs.&lt;/p&gt;
 
 
 
@@ -810,7 +814,9 @@ Change</dc:creator>
 
 
 
-&lt;p&gt;Antimicrobial peptides kill microbes in many different ways. They enter microbial cells by damaging their membranes, and once inside, they can disrupt cellular targets such as DNA, RNA, and proteins.&lt;/p&gt;
+&lt;p&gt;Antimicrobial peptides kill microbes in many different ways. 
+00004000
+They enter microbial cells by damaging their membranes, and once inside, they can disrupt cellular targets such as DNA, RNA, and proteins.&lt;/p&gt;
 
 
 
@@ -826,9 +832,7 @@ Change</dc:creator>
 
 
 
-&lt;p&gt;In this study, the researchers began with an antimicrobial peptide found in the seeds of the guava plant. This pe
-00006000
-ptide, known as Pg-AMP1, has only weak antimicrobial activity. The researchers told the algorithm to come up with peptide sequences with two features that help peptides to penetrate bacterial membranes: a tendency to form alpha helices and a certain level of hydrophobicity.&lt;/p&gt;
+&lt;p&gt;In this study, the researchers began with an antimicrobial peptide found in the seeds of the guava plant. This peptide, known as Pg-AMP1, has only weak antimicrobial activity. The researchers told the algorithm to come up with peptide sequences with two features that help peptides to penetrate bacterial membranes: a tendency to form alpha helices and a certain level of hydrophobicity.&lt;/p&gt;
 
 
 
@@ -973,7 +977,9 @@ ptide, known as Pg-AMP1, has only weak antimicrobial activity. The researchers t
 
 
 
-&lt;p&gt;“These people are going to be the next people with our campers, and they’re going to be helping find the next generation and the next generation. It’s been really fun. I found a lot of great friends through Camp Kesem, and there’s just so many incredible people in it,” Joseph says.&lt;/p&gt;
+&lt;p&gt;“These people are going to be the next people with our campers, and they’re going to
+00003899
+ be helping find the next generation and the next generation. It’s been really fun. I found a lot of great friends through Camp Kesem, and there’s just so many incredible people in it,” Joseph says.&lt;/p&gt;
 
 
 
@@ -1046,9 +1052,7 @@ ptide, known as Pg-AMP1, has only weak antimicrobial activity. The researchers t
 
 &lt;p&gt;Paula Hammond, Department of Chemical Engineering&amp;nbsp;and the Koch Institute for Integrative Cancer Research, &lt;a href=&quot;http://pubs.acs.org/doi/full/10.1021/cen-09602-awards18&quot; target=&quot;_blank&quot;&gt;won the American Chemical Society Award in Applied Polymer Science&lt;/a&gt; on Jan. 8.&lt;/p&gt;
 
-&lt;p&gt;Daniel Jackson, Department of Electrical Engineering and Computer Science&amp;nbsp;and the Computer Science an
-00006000
-d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.edu/2018-44th-annual-mlk-celebration/&quot; target=&quot;_blank&quot;&gt;won the MIT Martin Luther King Jr. Leadership Award&lt;/a&gt; on Feb. 8.&lt;/p&gt;
+&lt;p&gt;Daniel Jackson, Department of Electrical Engineering and Computer Science&amp;nbsp;and the Computer Science and Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.edu/2018-44th-annual-mlk-celebration/&quot; target=&quot;_blank&quot;&gt;won the MIT Martin Luther King Jr. Leadership Award&lt;/a&gt; on Feb. 8.&lt;/p&gt;
 
 &lt;p&gt;Stefanie Jegelka, Department of Electrical Engineering and Computer Science&amp;nbsp;and the Computer Science and Artificial Intelligence Laboratory, was &lt;a href=&quot;http://sloan.org/fellowships/2018-fellows&quot; target=&quot;_blank&quot;&gt;awarded a Sloan Research Fellowship&lt;/a&gt; on Feb. 15.&lt;/p&gt;
 
@@ -1076,7 +1080,9 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
 
 &lt;p&gt;Noelle Selin, Institute for Data, Systems, and Society, was &lt;a href=&quot;http://www.ias.tum.de/en/fellowship-program/hans-fischer-fellowship/&quot; target=&quot;_blank&quot;&gt;awarded a Hans Fischer Senior Fellowship&lt;/a&gt; on March 23.&lt;/p&gt;
 
-&lt;p&gt;Devavrat Shah, Department of Electrical Engineering and Computer Science&amp;nbsp;and the Institute for Data, Systems, and Society &lt;a href=&quot;http://www.eecs.mit.edu/news-events/announcements/devavrat-shah-nickolai-zeldovich-receive-faculty-research-innovation&quot; target=&quot;_blank&quot;&gt;won a Frank Quick Faculty Research Innovation Award&lt;/a&gt; on Feb. 20.&lt;/p&gt;
+&lt;p&gt;Devavrat Shah, Department of Electrical Engineering and Computer Science&amp;nbsp;and the Institute for Data, Systems, and Society &lt;a href=&quot;http://www.eecs.mit.edu/news-events/announcements/devavrat-shah-nickolai-zeldovich-receive-faculty-research-innovation&quot; target=&quot;_blank&quot;&gt;won a Frank Quick Faculty 
+000028FD
+Research Innovation Award&lt;/a&gt; on Feb. 20.&lt;/p&gt;
 
 &lt;p&gt;Julie Shah, Department of Aeronautics and Astronautics&amp;nbsp;and the Computer Science and Artificial Intelligence Laboratory &lt;a href=&quot;http://www.ieee-ras.org/awards-recognition/society-awards/ras-early-career-award-academic&quot; target=&quot;_blank&quot;&gt;won the 2018 Robotics and Automation Society Early Career Award&lt;/a&gt; on March 23.&lt;/p&gt;
 
@@ -1113,7 +1119,9 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
 
 &lt;p&gt;Kristin Bergmann’s hiking boots “time machine” take her to far reaches of the globe, back to an age long before Neanderthals. As a geobiologist, she’s trying to figure out why the Earth is special: Why did it take about 3 billion years for life to transition from small, simple microbes to large complex animals? For this, she turns to rocks. “Rocks capture secrets about the history of our planet and the life that has lived on it,” Bergmann told an attentive audience. Her work has focused on marine carbonate sedimentary rocks and fossils, analyzing them in the field and the lab in order to better understand how the chemistry and climate of the oceans and atmosphere affected the evolution of complex life.&lt;/p&gt;
 
-&lt;p&gt;In her talk, Bergmann pushed attendees to reevaluate what they think a scientist is and how you become one. She produced one of her elementary school report cards, which showed some Bs and even Cs. “I don’t want you to be discouraged if you get a B or C in school. I was not discouraged. None of this report card, to me, is a sign of failure. It was a sign that I was learning hard things.” As a former middle school Earth and life science teacher and now EAPS professor, Bergmann understands what it’s like to be an educator and a lifelong investigator. Her teaching style, subject matter, and media foster curiosity within all types of learners: visual, auditory, kinesthetic, and more. Different scientists have different skills and take distinctive career paths, Bergmann noted. “Three things I want you to remember,” she said. “First, scientists can be explorers; they don’t always work in a lab. I’m probably not the scientist you were picturing building the time machine. Second, be creative and be curious, even if it means getting some B&#039;s or C&#039;s along the way. Learn from them. And third, I didn’t know that I would be a geologist when I was your age, but when I found geology, I loved it. I kept doing it, and I kept taking risks along the way.”&lt;/p&gt;
+&lt;p&gt;In her talk, 
+00000F1B
+Bergmann pushed attendees to reevaluate what they think a scientist is and how you become one. She produced one of her elementary school report cards, which showed some Bs and even Cs. “I don’t want you to be discouraged if you get a B or C in school. I was not discouraged. None of this report card, to me, is a sign of failure. It was a sign that I was learning hard things.” As a former middle school Earth and life science teacher and now EAPS professor, Bergmann understands what it’s like to be an educator and a lifelong investigator. Her teaching style, subject matter, and media foster curiosity within all types of learners: visual, auditory, kinesthetic, and more. Different scientists have different skills and take distinctive career paths, Bergmann noted. “Three things I want you to remember,” she said. “First, scientists can be explorers; they don’t always work in a lab. I’m probably not the scientist you were picturing building the time machine. Second, be creative and be curious, even if it means getting some B&#039;s or C&#039;s along the way. Learn from them. And third, I didn’t know that I would be a geologist when I was your age, but when I found geology, I loved it. I kept doing it, and I kept taking risks along the way.”&lt;/p&gt;
 
 &lt;p&gt;When asked by a young girl if it’s hard to be scientist, Bergmann replied, “I love what I do ... and I work with great people. We’re all excited to tackle these big questions. So I don’t think it’s difficult to be a scientist.”&lt;/p&gt;
 
@@ -1121,7 +1129,9 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
 
 &lt;p&gt;Several EAPS groups came out to support the event. Bergmann along with graduate students Julia Wilcots and Maya Stokes had a ripple tank and an impressive rock display: some with ripple patterns, one with beautiful shells that was once deposited in Ohio in an ocean, and another that was about a billion years old. Seeing these rocks challenged audiences to think about ancient landscapes and what environmental pressures might have kept life small. The&amp;nbsp;&lt;a href=&quot;http://web.mit.edu/davidmcg/www/&quot; target=&quot;_blank&quot;&gt;McGee Lab&lt;/a&gt;’s Gabi Serrato Marks, Michaela Fendrock, and Christine Chen showed guests how they use information from stalagmites, lake deposits, and other marine sediments to reconstruct ancient precipitation and wind patterns. They use this to see how these patterns responded to past climate changes in order to understand how rainfall might change in the future. Graduate students Astrid Pacini, Madeleine Youngs and professor&amp;nbsp;&lt;a href=&quot;http://eapsweb.mit.edu/people/grflierl&quot; target=&quot;_blank&quot;&gt;Glenn Flierl&lt;/a&gt;&amp;nbsp;helped guests shift their frame to view to global dynamics of ocean and atmospheric currents, weather patterns, climate proxies, and more on the iGlobe, a large computerized spherical display. On a path laid out around the iGlobe, guests could “walk the Gulf Stream,” experiencing how fast the water moves north and then slows and meanders back south.&lt;/p&gt;
 
-&lt;p&gt;MIT’s “&lt;a href=&quot;http://float.aerocene.org/&quot; target=&quot;_blank&quot;&gt;Aerocene&lt;/a&gt;” display — a project developed by MIT visiting artist Tomás Saraceno in collaboration with EAPS scientists&amp;nbsp;&lt;a href=&quot;http://synoptic.mit.edu/&quot; target=&quot;_blank&quot;&gt;Lodovica Illari&lt;/a&gt;, Glenn Flierl, and Bill McKenna — helps calculate the trajectories of a balloon-like structure around the globe. The hypothetical flight paths take into account atmospheric data and physics, and depend on when and where the structures are launched. Using the interface, Illari along with graduate students Catherine Wilka and Rohini Shivamoggi invited guests to&amp;nbsp;&lt;a href=&quot;http://float.aerocene.org/&quot; target=&quot;_blank&quot;&gt;“launch” virtual balloons&lt;/a&gt;,&amp;nbsp;challenging them to land in a location of their choosing.&lt;/p&gt;
+&lt;p&gt;MIT’s “&lt;a href=&quot;http://float.aerocene.org/&quot; target=&quot;_blank&quot;&gt;Aerocene&lt;/a&gt;” display — a project developed by MIT visiting artist Tomás Saraceno in collaboration with EAPS scientists&amp;nbsp;&lt;a href=&quot;http://synoptic.mit.edu/&quot; target=&quot;_blank&quot;&gt;Lodovica Illari&lt;/a&gt;, Glenn Flierl, and Bill McKenna — helps calculate the trajectories of a balloon-like structure around the globe
+00004000
+. The hypothetical flight paths take into account atmospheric data and physics, and depend on when and where the structures are launched. Using the interface, Illari along with graduate students Catherine Wilka and Rohini Shivamoggi invited guests to&amp;nbsp;&lt;a href=&quot;http://float.aerocene.org/&quot; target=&quot;_blank&quot;&gt;“launch” virtual balloons&lt;/a&gt;,&amp;nbsp;challenging them to land in a location of their choosing.&lt;/p&gt;
 
 &lt;p&gt;Postdoc&amp;nbsp;Jonathan Lauderdale&amp;nbsp;from the Darwin group showed guests how ocean modelers turn marine ecological phenomena into mathematical relationships, in a popular “bugs to bytes” game. By “hunting” for Swedish Fish while blindfolded, Girls Day attendees could experience how food consumption by predators scales with food abundance to a point, after which there is an abundance of available prey, supporting a premise put forth by ecologist&amp;nbsp;Crawford Stanley &quot;Buzz&quot; Holling. Meanwhile, graduate students Mara Freilich, Tristan Abbott, and Henri Drake, along with lab assistant Bill McKenna and Professor John Marshall, illustrated the physics around ocean gyre circulation, specifically the Great Pacific Garbage Patch, with a&amp;nbsp;&lt;a href=&quot;http://weathertank.mit.edu/&quot; target=&quot;_blank&quot;&gt;Weather in a Tank&lt;/a&gt;&amp;nbsp;demonstration. Using a rotating tank of water with fans blowing on it to simulate the atmosphere and ocean currents that drive the Pacific Ocean gyre, audiences dropped paper bits into the swirling water; these pieces eventually found their way into the middle of the tank. An overhead camera locked to the turntable and projector allowed audiences to see the effect within the spinning framework.&lt;/p&gt;
 
@@ -1138,9 +1148,7 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
      <pubDate>Mon, 02 Apr 2018 23:59:59 -0400</pubDate>
  <dc:creator>Anne Trafton | MIT News Office</dc:creator>
  <guid isPermaLink="true">http://news.mit.edu/2018/faculty-profile-katharina-ribbeck-0403</guid>
-<content:encoded>&lt;p&gt;In 2007, Katharina Ribbeck spent a year as a visiting scientist at Harvard Medical School. While there, she heard about a fellowship offered at Harvard that would provide
-00006000
- the recipient with a lab, startup funding, and status as an independent investigator. The catch? Applicants had to propose starting a new field of study.&lt;/p&gt;
+<content:encoded>&lt;p&gt;In 2007, Katharina Ribbeck spent a year as a visiting scientist at Harvard Medical School. While there, she heard about a fellowship offered at Harvard that would provide the recipient with a lab, startup funding, and status as an independent investigator. The catch? Applicants had to propose starting a new field of study.&lt;/p&gt;
 
 
 
@@ -1240,7 +1248,9 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
 
 &lt;p&gt;Boyden, along with fellow laureate Karl Deisseroth, brainstormed about how microbial opsins could be used to mediate optical control of neural activity, while both were students in 2000. Together, they collaborated to demonstrate the first optical control of neural activity using microbial opsins in the summer of 2004, when Boyden was at Stanford. At MIT, Boyden’s team developed the first optogenetic silencing (2007), the first effective optogenetic silencing in live mammals (2010), noninvasive optogenetic silencing (2014), multicolor optogenetic control (2014), and temporally precise single-cell optogenetic control (2017).&lt;/p&gt;
 
-&lt;p&gt;In addition to his work with optogenetics, Boyden has pioneered the development of many transformative technologies that image, record, and manipulate complex systems, including expansion microscopy and robotic patch clamping. He has received numerous awards for this work, including the Breakthrough Prize in Life Sciences (2016), the BBVA Foundation Frontiers of Knowledge Award (2015), the Carnegie Prize in Mind and Body Sciences (2015), the Grete Lundbeck European Brain Prize (2013), and the Perl-UNC Neuroscience prize (2011). Boyden is an elected member of the American Academy of Arts and Sciences and the National Academy of Inventors.&lt;/p&gt;
+&lt;p&gt;In addition to his work with optogenetics, Boyden has pioneered the development of many transformative technologies that image, record, and manipulate complex systems, including expansion microscopy and robotic patch clamping. He has received numerous awards for this work, including the Breakthrough Prize in Life Sciences (2016), the BBVA Foundation Frontiers of Knowledge Award (2015), the Carnegie Prize in Mind and Body Sciences (2015), the Grete Lundbeck European Brain Prize (2013), and the Perl-UNC Neuroscience prize (2011). Boyden is an elected member of the American Academy of Arts
+00004000
+ and Sciences and the National Academy of Inventors.&lt;/p&gt;
 
 &lt;p&gt;“We are thrilled Ed has been recognized with the prestigious Gairdner Award for his work in developing optogenetics,” says Robert Desimone, director of the McGovern Institute. “Ed’s body of work has transformed neuroscience and biomedicine, and I am exceedingly proud of the contributions he has made to MIT and to the greater community of scientists worldwide.”&lt;/p&gt;
 
@@ -1339,9 +1349,7 @@ d Artificial Intelligence Laboratory, &lt;a href=&quot;http://mlkscholars.mit.ed
 
 
 
-&lt;p&gt;The MIT team decided to create an open system, which essentially r
-00006000
-emoves the lid and makes it easier to manipulate the system and remove samples for analysis. Their system, adapted from technology they previously developed and commercialized through U.K.-based CN BioInnovations, also incorporates several on-board pumps that can control the flow of liquid between the “organs,” replicating the circulation of blood, immune cells, and proteins through the human body. The pumps also allow larger engineered tissues, for example tumors within an organ, to be evaluated.&lt;/p&gt;
+&lt;p&gt;The MIT team decided to create an open system, which essentially removes the lid and makes it easier to manipulate the system and remove samples for analysis. Their system, adapted from technology they previously developed and commercialized through U.K.-based CN BioInnovations, also incorporates several on-board pumps that can control the flow of liquid between the “organs,” replicating the circulation of blood, immune cells, and proteins through the human body. The pumps also allow larger engineered tissues, for example tumors within an organ, to be evaluated.&lt;/p&gt;
 
 
 
@@ -1361,7 +1369,9 @@ emoves the lid and makes it easier to manipulate the system and remove samples f
 
 
 
-&lt;p&gt;Griffith believes that the most immediate applications for this technology involve modeling two to four organs. Her lab is now developing a model system for Parkinson’s disease that includes brain, liver, and gastrointestinal tissue, which she plans to use to investigate the hypothesis that bacteria found in the gut can influence the development of Parkinson’s disease.&lt;/p&gt;
+&lt;p&gt;Griffith believes that the most immediate applications for this technology involve modeling two to four organs. Her lab is now developing a model system for Parkinson’s disease that includes brain, liver, a
+000010DF
+nd gastrointestinal tissue, which she plans to use to investigate the hypothesis that bacteria found in the gut can influence the development of Parkinson’s disease.&lt;/p&gt;
 
 
 
@@ -1410,7 +1420,9 @@ emoves the lid and makes it easier to manipulate the system and remove samples f
 
 
 
-&lt;p&gt;Several years ago, scientists seeking new treatments for arthritis discovered that synovial fibroblasts from arthritis patients had very high levels of p38, and many pharmaceutical companies began working on p38 inhibitors. “The activity of this pathway was so strong that people tended to think that it was the best one to inhibit,” Lauffenburger says.&lt;/p&gt;
+&lt;p&gt;Several years ago, scientists seeking new treatments for arthritis discovered that synovial fibroblasts from arthritis patients had very high levels of p38, and many pharmaceutical companies began working on p38 inhibitors. “The activity of this pathway was so strong that people tended to think th
+00003D3C
+at it was the best one to inhibit,” Lauffenburger says.&lt;/p&gt;
 
 
 
@@ -1551,7 +1563,9 @@ emoves the lid and makes it easier to manipulate the system and remove samples f
 
 
 
-&lt;p&gt;“My deepest personal interest is in the clinical applications of synthetic biology,” Lu says. “Can you program cells or viruses to sense and respond to their environment, so that you can try to detect the presence of disease and treat it effectively and safely?”&lt;/p&gt;
+&lt;p&gt;“My deepest personal interest is in the clinical applications of synthetic biology,” Lu says. “Can you program cells or viruses to sense and respond to their environment, so 
+00004000
+that you can try to detect the presence of disease and treat it effectively and safely?”&lt;/p&gt;
 
 
 
@@ -1567,9 +1581,7 @@ emoves the lid and makes it easier to manipulate the system and remove samples f
 
 
 
-&lt;p&gt;“When we first started, in the early 2000s, people didn’t care about antibiotic resistance that much. Most antibiotics were still working and people didn’t think it was a big deal,” he says. “But over time, resistance has continued to grow, and the antibiotic pipeline has become drier and 
-00006000
-drier. So we still firmly believe that we need new strategies. The days when you would just go and dig in the dirt and easily find new antibiotics with broad-spectrum activity are over.”&lt;/p&gt;
+&lt;p&gt;“When we first started, in the early 2000s, people didn’t care about antibiotic resistance that much. Most antibiotics were still working and people didn’t think it was a big deal,” he says. “But over time, resistance has continued to grow, and the antibiotic pipeline has become drier and drier. So we still firmly believe that we need new strategies. The days when you would just go and dig in the dirt and easily find new antibiotics with broad-spectrum activity are over.”&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/MIT-Profile-Lu.jpg" type="image" width="948" height="632"><media:description type="plain">Timothy Lu's early interest in computer programming was inspired by his father, who worked as an electrical engineer at IBM.</media:description><media:credit>Image: M. Scott Brauer</media:credit></media:content><story:tags>Research, Faculty, Electrical Engineering &amp; Computer Science (eecs), Biological engineering, School of Engineering, DNA, Microbes, Synthetic biology, Medicine, Health sciences and technology, Profile, Cancer</story:tags>  </item>
   <item>
     <title>Seeing the brain&amp;#039;s electrical activity</title>
@@ -1704,7 +1716,9 @@ drier. So we still firmly believe that we need new strategies. The days when you
 
 
 
-&lt;p&gt;Swain’s other artistic interest, slam poetry, allows him to express himself personally and politically through performance. As a student in St. Louis, he, with many others, used slam poetry as a medium for protest and catharsis during the Ferguson protests of Michael Brown’s murder. His emotional poem &lt;a href=&quot;https://youtu.be/kYVwLbVInaE&quot;&gt;“The Silence of Michael Brown”&lt;/a&gt; was directly influenced by this challenging time.&lt;/p&gt;
+&lt;p&gt;Swain’s other arti
+00006000
+stic interest, slam poetry, allows him to express himself personally and politically through performance. As a student in St. Louis, he, with many others, used slam poetry as a medium for protest and catharsis during the Ferguson protests of Michael Brown’s murder. His emotional poem &lt;a href=&quot;https://youtu.be/kYVwLbVInaE&quot;&gt;“The Silence of Michael Brown”&lt;/a&gt; was directly influenced by this challenging time.&lt;/p&gt;
 
 
 
@@ -1773,9 +1787,7 @@ drier. So we still firmly believe that we need new strategies. The days when you
 
 
 
-&lt;p&gt;This new feature helps pave the way for field use, such as during an outbreak. The team has also increased the sensitivity of SHERLOCK and
-00006000
- added the capacity to accurately quantify the amount of target in a sample and test for multiple targets at once. All together, these advancements accelerate SHERLOCK’s ability to quickly and precisely detect genetic signatures — including pathogens and tumor DNA — in samples.&lt;/p&gt;
+&lt;p&gt;This new feature helps pave the way for field use, such as during an outbreak. The team has also increased the sensitivity of SHERLOCK and added the capacity to accurately quantify the amount of target in a sample and test for multiple targets at once. All together, these advancements accelerate SHERLOCK’s ability to quickly and precisely detect genetic signatures — including pathogens and tumor DNA — in samples.&lt;/p&gt;
 
 
 
@@ -1878,7 +1890,9 @@ drier. So we still firmly believe that we need new strategies. The days when you
 &lt;div&gt;
 &lt;p&gt;&lt;strong&gt;Treating disease &lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Armed with more knowledge of how diseases grow and spread, researchers are better able to develop new ways to treat, and in some cases cure, disease. Among them is Assistant Professor Ellen Roche, who is taking a unique dual approach to treating heart disease using both mechanical and biological therapies.&lt;/p&gt;
+&lt;p&gt;Armed with more knowledge of how diseases grow and spread, researchers are better able to develop new ways to treat, and in some cases cure, disease. Among them is As
+00002849
+sistant Professor Ellen Roche, who is taking a unique dual approach to treating heart disease using both mechanical and biological therapies.&lt;/p&gt;
 
 &lt;p&gt;“The idea is to mechanically assist the heart,” says Roche, who also serves as Helmholtz Career Development Professor at MIT’s Institute for Medical Engineering and Science. “Rather than take over its function we just assist and augment it using a biomimetic approach.”&lt;/p&gt;
 
@@ -1924,9 +1938,9 @@ drier. So we still firmly believe that we need new strategies. The days when you
 
 &lt;p&gt;“We believe we can significantly alter cancer patients’ outcomes by determining the right combination of therapies and the right sequence of drugs for the right patients,” says Yaffe. “We’re also concentrating on innovative ways to give these drugs, like time-staggered dosages and nanoparticle delivery.” He notes that, as part of their analyses of drugs and combination regimens currently administered in the clinic, CPCM members expect to identify combinations of drugs that are not as efficacious when given simultaneously as when given sequentially, at specific intervals. Yaffe stresses that these will be important findings that could help reduce the toxicity of treatment by not exposing people to multiple drug toxicities at the same time.&lt;/p&gt;
 
-&lt;p&gt;In parallel with their efforts to use existing 
-00006000
-drugs more effectively, CPCM investigators are also working to identify compounds, materials, and approaches that can engage key “undruggable” genetic and molecular targets and disrupt processes driving drug resistance. The “undruggable” label often refers to the fact that a target protein or molecule lacks a site to which drugs can bind, and thus is not considered a good drug target by the pharmaceutical industry. However, using novel chemistry approaches, CPCM researchers have made early inroads against several such high-value cancer targets, including specific transcription factors and RNA-binding proteins. The center will continue and expand these efforts as the third part of its research platform, including collaborations with industry.&lt;/p&gt;
+&lt;p&gt;In parallel with their efforts to use existing drugs more effectively, CPCM investigators are also working to identify compounds, materials, and approaches that can engage key “undruggable” genetic and molecular targets and disrupt processes driving drug resistance. The “undruggable” label often refers to the fact that a target protein or molecule lacks a site to which drugs can bind, and thus is not considered a good drug target by the pharmaceutical industry. However, using novel chemistry approaches, CPCM researchers have made early inroads against several such high-value cancer targets,
+00004000
+ including specific transcription factors and RNA-binding proteins. The center will continue and expand these efforts as the third part of its research platform, including collaborations with industry.&lt;/p&gt;
 
 &lt;p&gt;Finally, the fourth component of the CPCM’s efforts will be harnessing MIT’s particular expertise in big data analysis and tools to begin new and expedite existing cancer research efforts. For example, the researchers plan to use data analytics to identify selective panels of biomarkers that can be used to prioritize which of their drug combinations, treatment protocols, and formulations are best suited to a particular patient’s tumor.&lt;/p&gt;
 
@@ -2031,7 +2045,9 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 
 
-&lt;p&gt;The Vilcek Foundation was established in 2000 by Jan and Marica Vilcek, immigrants from the former Czechoslovakia. The mission of the foundation, to honor the contributions of immigrants to the United States and to foster appreciation of the arts and sciences, was inspired by the couple’s respective careers in biomedical science and art history, as well as their personal experiences and appreciation of the opportunities they received as newcomers to this country.&lt;/p&gt;
+&lt;p&gt;The Vilcek Foundation was established in 2000 by Jan and Marica Vilcek, immigrants from the former Czechoslovakia. The mission of the foundation, to honor the contributions of im
+00004000
+migrants to the United States and to foster appreciation of the arts and sciences, was inspired by the couple’s respective careers in biomedical science and art history, as well as their personal experiences and appreciation of the opportunities they received as newcomers to this country.&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/anikeeva-zhang-vilcek.jpg" type="image" width="588" height="358"><media:description type="plain">From left to right: Polina Anikeeva, the Class of 1942 Associate Professor in the Department of Materials Science and Engineering and associate director of the Research Laboratory of Electronics, and Feng Zhang, the James and Patricia Poitras ’63 Professor in Neuroscience at the McGovern Institute, a core member of the Broad Institute, and an associate professor in the departments of Brain and Cognitive Sciences and Biological Engineering. </media:description><media:credit>Photos: Lillie Paquette/MIT School of Engineering</media:credit></media:content><story:tags>Awards, honors and fellowships, Faculty, School of Engineering, DMSE, Brain and cognitive sciences, Biological engineering, Broad Institute, Research Laboratory of Electronics, McGovern Institute, School of Science</story:tags>  </item>
   <item>
     <title>Reading and writing DNA</title>
@@ -2062,9 +2078,7 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 &lt;p&gt;“Since the dawn of transplantation as a medical practice, we’ve had to use either identical twins or rare matches that are very compatible immunologically, because we couldn’t engineer the donor or the recipient,” said Church.&lt;/p&gt;
 
-&lt;p&gt;Since it’s clearly unethical to engineer human donors, Church
-00006000
- reasoned, why not engineer animals with compatible organs instead? Pigs, to be exact, since most of their organs are comparable in size and function to our own.&lt;/p&gt;
+&lt;p&gt;Since it’s clearly unethical to engineer human donors, Church reasoned, why not engineer animals with compatible organs instead? Pigs, to be exact, since most of their organs are comparable in size and function to our own.&lt;/p&gt;
 
 &lt;p&gt;“This is an old dream; I didn’t originate it,” said Church. “It started about 20 years ago, and the pioneers of this field worked on it for a while, but dropped it largely because the number of changes to the genome were daunting, and there was a concern that the viruses all pigs make — retroviruses — would be released and infect the immunocompromised organ recipient.”&lt;/p&gt;
 
@@ -2127,7 +2141,9 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 
 
-&lt;p&gt;Years later, as an MIT master’s student studying microelectromechanical systems, Wang worked on sensing technologies and processing of radio frequency signals under the guidance of Professor Dana Weinstein, now at Purdue University. During his final year, he wound up at the MIT Media Lab, working on a 3-D printing project with Tayi, who had spent his academic career toiling away in materials science, chemistry, and other labs. Tayi and Savo were already conducting market research around potential opportunities for IoT in labs.&lt;/p&gt;
+&lt;p&gt;Years later, as an MIT master’s student studying mic
+00000FF6
+roelectromechanical systems, Wang worked on sensing technologies and processing of radio frequency signals under the guidance of Professor Dana Weinstein, now at Purdue University. During his final year, he wound up at the MIT Media Lab, working on a 3-D printing project with Tayi, who had spent his academic career toiling away in materials science, chemistry, and other labs. Tayi and Savo were already conducting market research around potential opportunities for IoT in labs.&lt;/p&gt;
 
 
 
@@ -2167,7 +2183,9 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 
 
-&lt;p&gt;For example, in the final stages of approval of a multibillion-dollar drug, a large pharmaceutical firm conducted an accelerated lifetime test, where any prolonged deviation from preset conditions would require restarting the experiment, at the cost of millions of dollars, weeks of unusable data, and delayed commercialization. Within a few weeks of the test’s conclusion, a major deviation in one experiment occurred late at night. Within seconds, according to the study, TetraScience’s platform detected the deviation and alerted scientists, who caught it immediately, stopping any significant damage.&lt;/p&gt;
+&lt;p&gt;For example, in the final stages of approval of a multibillion-dollar drug, a large pharmaceutical firm conducted an accelerated lifetime test, where any prolonged deviation from preset conditions would require restarting the experiment, at the cost of millions of dollars, weeks of unusable data, and delayed commercialization. Within a few weeks of the test’s conclusion, a major deviation in one experiment occurred late at night. Within seconds, according to the study, TetraScience’s platform 
+00004000
+detected the deviation and alerted scientists, who caught it immediately, stopping any significant damage.&lt;/p&gt;
 
 
 
@@ -2250,9 +2268,7 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 &lt;p&gt;This rapid turnover struck the researchers as similar to Twain’s quote: “The good news may be that if you don’t like the microbial community, just wait for a few days,” they quip at the conclusion of their paper, published in &lt;em&gt;Nature Communications&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;“We know relatively little about how microbial communities — the assemblage of microbes in the ocean — change over time and space,” says Martin Polz, professor of civil and environmental engineering (CEE) at MIT and corresponding author on the paper. “People have gone out and taken samples in distinct locations
-00006000
-, so we are getting to know more about the global diversity, but when you go to a particular location and ask, ‘How is it changing over time?’ we actually know relatively little.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;“We know relatively little about how microbial communities — the assemblage of microbes in the ocean — change over time and space,” says Martin Polz, professor of civil and environmental engineering (CEE) at MIT and corresponding author on the paper. “People have gone out and taken samples in distinct locations, so we are getting to know more about the global diversity, but when you go to a particular location and ask, ‘How is it changing over time?’ we actually know relatively little.”&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;To fill this void, Polz and the research team collected daily ocean water samples from Canoe Cove in Nahant, Massachusetts, over a three-month period.&lt;/p&gt;
 
@@ -2274,7 +2290,9 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 &lt;p&gt;“This paper represents a significant advance in our knowledge of the forces that mediate community assembly in fluid environments, and provides a wealth of new information to support new hypothesis-driven research into the specific mechanisms that underpin this complex association,” says Jack Gilbert, faculty director of the Microbiome Center at the University of Chicago, who was not involved in this work.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;The research was funded in part by the National Science Foundation and the United States Department of Energy.&lt;/p&gt;
+&lt;p&gt;The research was funded in part by the National Science Foun
+00004000
+dation and the United States Department of Energy.&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2018/Microbial-oceanography-daily-water-samples-processing.JPG" type="image" width="4288" height="2848"><media:description type="plain">Postdoc Kathryn Kauffman and former guest researcher Aidong Ruan process ocean water samples at Canoe Cove in Nahant, Massachusetts. The researchers were observing how microbial communities change over time in a particular location. </media:description><media:credit>Photo: Gitta Szabo</media:credit></media:content><story:tags>School of Engineering, Civil and environmental engineering, Woods Hole, Computational biology, Systems biology, Microbiology, Broad Institute, Department of Energy (DoE), National Science Foundation (NSF), Microbes, Environment, Biological engineering</story:tags>  </item>
   <item>
     <title>School of Engineering fourth quarter 2017 awards </title>
@@ -2400,7 +2418,9 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 
 
-&lt;p&gt;Results from the ISS experiments will prove that the device indeed functions in zero-gravity, which is basically impossible to verify on Earth. And, they will help the startup refine the device, Adamo says: “MIT strives for excellence and we inherited that model — we’re still striving for excellence.”&lt;/p&gt;
+&lt;p&gt;Results from th
+00004000
+e ISS experiments will prove that the device indeed functions in zero-gravity, which is basically impossible to verify on Earth. And, they will help the startup refine the device, Adamo says: “MIT strives for excellence and we inherited that model — we’re still striving for excellence.”&lt;/p&gt;
 
 
 
@@ -2436,9 +2456,7 @@ The Levitan Prize from MIT SHASS is awarded annually to support innovative and c
 
 
 
-&lt;p&gt;Importantly, Adamo says, Zaiput’s continuous-flow, membrane-based separator allows for separation of emulsions, whereby small droplets of one liquid end up in the other liquid, never fully separating. “We don’t have that issue, because we don’t need to wait for liquids to settle,” Adamo says. “W
-00006000
-e are the only technology that provides continuous separation, can readily separate emulsions, and is also designed for safety, so if you’re dealing with explosive or toxic substances, you can process them quickly.”&lt;/p&gt;
+&lt;p&gt;Importantly, Adamo says, Zaiput’s continuous-flow, membrane-based separator allows for separation of emulsions, whereby small droplets of one liquid end up in the other liquid, never fully separating. “We don’t have that issue, because we don’t need to wait for liquids to settle,” Adamo says. “We are the only technology that provides continuous separation, can readily separate emulsions, and is also designed for safety, so if you’re dealing with explosive or toxic substances, you can process them quickly.”&lt;/p&gt;
 
 
 
@@ -2517,7 +2535,9 @@ e are the only technology that provides continuous separation, can readily separ
 
 &lt;p&gt;“OpenBiome and Finch Therapeutics were really a translation of the initial work that was done through the microbiology program, and a step toward developing those tools to improve human health,” Smith says. “The program taught me the foundational work I’ve come to rely on in almost every aspect of my job today.”&lt;/p&gt;
 
-&lt;p&gt;Like Smith, Jacob Rubens PhD ’16 aims to apply his training at MIT to help develop new products. After working in Timothy Lu’s lab — straddling the realms of biological engineering and electrical engineering — Rubens joined Flagship Pioneering, a company that starts, funds, and runs breakthrough biotechnology startups in Cambridge, Massachusetts. Rubens was also &lt;a href=&quot;https://www.forbes.com/profile/jacob-rubens/&quot;&gt;named&lt;/a&gt; to the &lt;em&gt;Forbes&lt;/em&gt; 30 Under 30 list for science in 2017.&lt;/p&gt;
+&lt;p&gt;Like Smith, Jacob Rubens PhD ’16 aims to apply his training at MIT to help develop new products. After working in Timothy Lu’s lab — straddling the realms of biological engineering and electrical engineering — Rubens joined Flagship Pioneering, a company that starts, funds, and runs breakthrough biotechnology startups in Cambridge, Massachusetts. Rubens was also &lt;a href=&quot;https://www.forbes.com/profile/jacob-rubens/&quot;&gt;named&
+000012BC
+lt;/a&gt; to the &lt;em&gt;Forbes&lt;/em&gt; 30 Under 30 list for science in 2017.&lt;/p&gt;
 
 &lt;p&gt;During the six years that Rubens was at MIT, he watched the microbiology cohort grow from roughly 20 to a force permeating more labs across campus than he could count.&lt;/p&gt;
 
@@ -2542,7 +2562,9 @@ e are the only technology that provides continuous separation, can readily separ
 
 &lt;p&gt;&lt;strong&gt;Bryan Bryson&lt;/strong&gt; will join the Department of Biological Engineering as an assistant professor in the summer of 2018. Bryson earned a BS in mechanical engineering, with minor in biomedical engineering, and a PhD in biological engineering from MIT; his doctoral thesis was on proteomics and systems biology. He is currently completing postdoctoral work at the Harvard School of Public Health and the Ragon Institute, developing single-cell transcriptomic and proteomic methods for analysis of microbe-host interactions in the pathogenesis of tuberculosis. Bryson’s research program will center on systems biology approaches to infectious disease, primarily tuberculosis, and his teaching will include 20.440 (Analysis of Biological Networks), a graduate core subject on the analysis of biological networks, and 20.309 (Instrumentation and Measurement for Biological Systems), an undergraduate core laboratory subject on instrumentation and measurement for biological systems. Bryson served as a student representative on MIT’s last presidential search committee and was the recipient of numerous student awards at MIT, including the Hugh Hampton Young Fellowship for the combination of academic achievement with exceptional personal character.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Luca Carlone &lt;/strong&gt;joins the Department of Aeronautics and Astronautics as the Charles Stark Draper Assistant Professor this month. He will also be a principal investigator in the Laboratory for Information and Decision Systems (LIDS). Carlone received his PhD from the Polytechnic University of Turin in 2012, with a thesis entitled “Nonlinear Estimation Techniques for Autonomous Navigation in Single and Multi-robot Systems.” A research scientist at LIDS since 2016, Carlone first came to MIT as a postdoc in 2015, after two years as a postdoc at Georgia Tech. Carlone’s research interests include nonlinear estimation, numerical and distributed optimization, and probabilistic inference applied to sensing, perception, and decision making in single and multirobot systems. He is the recipient of several best-paper awards in his field.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Luca Carlone &lt;/strong&gt;joins the Department of Aeronautics and Astronautics as the Charles Stark Draper Assistant Professor this month. He will also be a principal investigator in the Laboratory for Information and Decision Systems (LI
+00004000
+DS). Carlone received his PhD from the Polytechnic University of Turin in 2012, with a thesis entitled “Nonlinear Estimation Techniques for Autonomous Navigation in Single and Multi-robot Systems.” A research scientist at LIDS since 2016, Carlone first came to MIT as a postdoc in 2015, after two years as a postdoc at Georgia Tech. Carlone’s research interests include nonlinear estimation, numerical and distributed optimization, and probabilistic inference applied to sensing, perception, and decision making in single and multirobot systems. He is the recipient of several best-paper awards in his field.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sili Deng &lt;/strong&gt;will join the Department of Mechanical Engineering as an assistant professor in January 2019. She received her PhD from Princeton University in 2016 and is currently doing postdoctoral work at Stanford University. Deng works in the area of combustion, with a focus on understanding flame dynamics and emissions during combustion processes. She performed both modeling and experiments to understand, characterize, and detect non-premixed cool-flame behavior for the first time, and she experimentally elucidated the sooting limits of diesel and biofuel surrogates in a simple liquid stagnation flow. She also investigated soot evolution in turbulent flames via modeling to provide insights into understanding both chemical and hydrodynamic effects on soot emissions. Deng has received several awards including the Bernard Lewis Fellowship from the Combustion Institute, the Gordon Wu Prize for Excellence from Princeton, which also awarded her an excellence in teaching award.&amp;nbsp;&lt;/p&gt;
 
@@ -2556,9 +2578,7 @@ e are the only technology that provides continuous separation, can readily separ
 
 &lt;p&gt;&lt;strong&gt;Mingda Li &lt;/strong&gt;will join the Department of Nuclear Science and Engineering as an assistant professor in January 2018. He completed his BS in engineering physics at Tsinghua University in 2009 and his PhD in nuclear science and engineering at MIT in 2015. After that, he carried out research as a postdoc at MIT’s Department of Mechanical Engineering. His Energy Nano Group aims to utilize defects to improve material performance through defect engineering, including experimental and theoretical studies on functional extended defects, controllable defective single crystal growth, AI-aided spectroscopy for defect resolution, and nanoscale energy transport and conversion processes with the presence of defects.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tami Lieberman &lt;/strong&gt;will join MIT as an assistant professor with dual appointments in the Department of Civil and Environmental Engineering and the Institute for Medical Engineering and Science in January 2018. Lieberman earned a BA in molecular biology and genetics at Northwestern University, where she was awarded a Barry M. Goldwater Scholarship. She earned a PhD in systems biology from Harvard, where she d
-00006000
-eveloped new genomic approaches for understanding how bacteria evolve during infections of individual people. Lieberman is currently a postdoc in Eric J. Alm’s lab at MIT, where she has further developed and applied genomic approaches to understand the microbes that colonize the human body. She will lead a computational and experimental research group focused on uncovering the principles governing colonization, niche range, and personalization in the human microbiome. Lieberman has also made contributions to our understanding of antibiotic resistance, including the co-invention of a new platform for visualizing evolution in real time.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tami Lieberman &lt;/strong&gt;will join MIT as an assistant professor with dual appointments in the Department of Civil and Environmental Engineering and the Institute for Medical Engineering and Science in January 2018. Lieberman earned a BA in molecular biology and genetics at Northwestern University, where she was awarded a Barry M. Goldwater Scholarship. She earned a PhD in systems biology from Harvard, where she developed new genomic approaches for understanding how bacteria evolve during infections of individual people. Lieberman is currently a postdoc in Eric J. Alm’s lab at MIT, where she has further developed and applied genomic approaches to understand the microbes that colonize the human body. She will lead a computational and experimental research group focused on uncovering the principles governing colonization, niche range, and personalization in the human microbiome. Lieberman has also made contributions to our understanding of antibiotic resistance, including the co-invention of a new platform for visualizing evolution in real time.&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;David Des Marais &lt;/strong&gt;joined the Department of Civil and Environmental Engineering as an assistant professor in October. He received his BA in integrative biology from the University of California at Berkeley, in 2000, studying plant diversity and evolution, and a PhD in biology from Duke University. His dissertation addressed how multifunctional proteins evolve within and between species. Des Marais did postdoctoral research at the University of Texas at Austin, where he was awarded a fellowship from the U.S. Department of Agriculture’s National Institute of Food and Agriculture to investigate plant responses to multiple environmental stresses experienced concurrently. Most recently, he was a principal investigator in the Department of Organismic and Evolutionary Biology at Harvard, as well as a senior fellow at the Arnold Arboretum. Des Marais’ research interests are in plant ecophysiology, evolutionary biology, and functional genomics. He is particularly interested in plant interactions with the abiotic environment — water, temperature, nutrients, and light — and how plants respond when these factors impose stress. He studies natural diversity within and between plant species both in the field and in controlled environments, and he hopes to develop a mechanistic understanding or plant performance to conserve natural plant populations and to improve agricultural productivity and sustainability.&lt;/p&gt;
 
@@ -2572,7 +2592,9 @@ eveloped new genomic approaches for understanding how bacteria evolve during inf
 
 &lt;p&gt;&lt;strong&gt;Julian Shun &lt;/strong&gt;joined the Department of Electrical Engineering and Computer Science as an assistant professor in September. He received a bachelor’s degree in computer science from the University of California at Berkeley, and a PhD in computer science from Carnegie Mellon University (CMU). Before coming to MIT, he was a postdoctoral Miller Research Fellow at UC Berkeley. Shun’s research focuses on the theory and practice of parallel algorithms and programming. He is particularly interested in designing algorithms and frameworks for large-scale graph analytics. He is also interested in parallel algorithms for text analytics, concurrent data structures, and methods for deterministic parallelism. Shun received the ACM doctoral dissertation award, the CMU School of Computer Science doctoral dissertation award, a Facebook graduate fellowship, and a best-student-paper award at the Data Compression Conference.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Wim van Rees &lt;/strong&gt;joined the Department of Mechanical Engineering as an assistant professor this fall. He received a BS in marine technology in 2006 and an MS with honors in ship hydrodynamics in 2008 from the Delft University of Technology. In 2014, he earned a PhD in computational science and engineering. He joined Harvard as a postdoc in 2014. Van Rees’ work couples the most advanced computational fluid dynamics and structural mechanics available with modern machine learning to design ocean propulsion and energy harvesting systems by evolutionary optimization. His combined background in naval architecture, including design of an America’s Cup vessel, and advanced computational fluid dynamics is unique. The systems that van Rees develops are inspired by nature, but outperform similar biological systems through simulated evolutionary processes that are able to mitigate some disadvantageous constraints of biological evolution. His work has the possibility of transforming ocean utilization around the world through unconventional approaches to transportation and offshore structure design, including extraction of energy from wind, wave, and turbulence, and marine robotics. The advanced computational tools that van Rees has developed, along with the directions of his research, may also enable him to one day unravel the mysteries of turbulence by developing reliable predictive tools.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wim van Rees &lt;/strong&gt;joined the Department of Mechanical Engineering as an assistant professor this fall. He received a BS in marine technology in 2006 and an MS with honors in ship hydrodynamics in 2008 from the Delft University of Technology. In 2014, he earned a PhD in computational science and engineering. He joined Harvard as a postdoc in 2014. Van Rees’ work couples the most advanced computational fluid dynamics and structural mechanics available with modern machine learning to design ocean propulsion and energy harvesting systems by evolutionary optimization. His combined background in naval architecture, including design of an America’s Cup vessel, and advanced computational fluid dynamics is unique. The systems that van Rees develops are inspired by nature, but outperform similar biological systems through simulated evolutionary processes that are able to mitigate some disadvantageous constraints of biological evolution. His work has the possibility of transforming ocean utilization around the world through unconventional approaches to transportation and offshore structure design, including extraction of energy from wind, wave, and turbulence, and marine robotics. The advanced computational tools that van 
+00003C8F
+Rees has developed, along with the directions of his research, may also enable him to one day unravel the mysteries of turbulence by developing reliable predictive tools.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/New%20Faculty2018.jpeg" type="image" width="1500" height="1000"><media:description type="plain">First row, left to right: Arvind Satyanarayan, Bryan Bryson, David Des Marais, Desiree Plata. Second row, left to right: Sili Deng, Wim van Rees, Farnaz Niroui, Julian Shun. Third row, left to right: Koroush Shirvan, Luca Carlone, Mingda Li, Phillip Isola. Fourth row, left to right: Rafael Gomez Bombarelli, Song Han, Tami Lieberman, Tim Kraska.</media:description><media:credit>Courtesy of the School of Engineering</media:credit></media:content><story:tags>School of Engineering, Faculty, Aeronautical and astronautical engineering, Biological engineering, Civil and environmental engineering, DMSE, Electrical Engineering &amp; Computer Science (eecs), Institute for Medical Engineering and Science (IMES), Laboratory for Information and Decision Systems (LIDS), Mechanical engineering, Nuclear science and engineering</story:tags>  </item>
   <item>
     <title>Boosting the antibiotic arsenal</title>
@@ -2732,9 +2754,9 @@ eveloped new genomic approaches for understanding how bacteria evolve during inf
 
 
 
-&lt;p&gt;The researchers also engineered bacteria to communicate with each other; for instance they programmed some cells to light up only when they receive a certain signa
-00005827
-l from another cell. To test this type of communication in a 3-D structure, they printed a thin sheet of hydrogel filaments with “input,” or signal-producing bacteria and chemicals, overlaid with another layer of filaments of an “output,” or signal-receiving bacteria. They found the output filaments lit up only when they overlapped and received input signals from corresponding bacteria .&lt;/p&gt;
+&lt;p&gt;The researchers also engineered bacteria to communicate with each other; for instance they programmed some cells to light up only when they receive a certain signal from another cell. To test this type of communication in a 3-D structure, they printed a thin sheet of hydrogel filaments with “input,” or signal-producing bacteria and chemicals, overlaid with another layer of filaments of an “output,” or signal-receiving bacteria. They found the output filaments lit up only when they overlapped and received input signal
+00004000
+s from corresponding bacteria .&lt;/p&gt;
 
 
 
@@ -2839,7 +2861,9 @@ l from another cell. To test this type of communication in a 3-D structure, they
 
 &lt;p&gt;Projects like these were just the beginning, says Tyler Jacks, director of the Koch Institute and co-leader of the Bridge Project. “As the Bridge Project gained momentum, so did the possibilities. The standards are very high — we are looking for true collaborations, rooted in real clinical need and fueled by truly innovative approaches. In exchange, we are able to catalyze progress and bring real advances to patients, very quickly.”&lt;/p&gt;
 
-&lt;p&gt;What is it about these projects that makes them so promising? “There’s a continuum of discovery,” explains Jacks’ co-leader David Livingston, deputy director of DF/HCC, &lt;a href=&quot;http://www.bloomberg.com/news/audio/2017-03-03/bay-state-biotech-report-the-bridge-project&quot; target=&quot;_blank&quot;&gt;in an interview&lt;/a&gt; with Bloomberg Radio. “[It] begins in basic research laboratories, goes to patients in clinics and hospitals, and then comes back, and turns into new therapeutics or new diagnostics or a new ability to figure out how [a] tumor is going to behave.”&lt;/p&gt;
+&lt;p&gt;What is it about these projects that makes them so promising? “There’s a continuum of dis
+00004000
+covery,” explains Jacks’ co-leader David Livingston, deputy director of DF/HCC, &lt;a href=&quot;http://www.bloomberg.com/news/audio/2017-03-03/bay-state-biotech-report-the-bridge-project&quot; target=&quot;_blank&quot;&gt;in an interview&lt;/a&gt; with Bloomberg Radio. “[It] begins in basic research laboratories, goes to patients in clinics and hospitals, and then comes back, and turns into new therapeutics or new diagnostics or a new ability to figure out how [a] tumor is going to behave.”&lt;/p&gt;
 
 &lt;p&gt;This quick-paced cycle of discovery and innovation, coupled with clinical application, is why investors and others find the Bridge Project so appealing.&lt;/p&gt;
 
@@ -2863,9 +2887,7 @@ l from another cell. To test this type of communication in a 3-D structure, they
 
 &lt;p&gt;“The Bridge Project gave us the money to do the science,” says&amp;nbsp;CEO Laura Indolfi, a former postdoc in the laboratory of KI member Elazer Edelman, the Thomas D. and Virginia W. Cabot Professor of Health Sciences and Technology. “Once we saw the results — a &lt;a href=&quot;http://news.mit.edu/2016/implantable-device-targets-pancreatic-cancer-0414&quot; target=&quot;_self&quot;&gt;12&amp;nbsp;times&amp;nbsp;improvement&lt;/a&gt; in response rate&amp;nbsp;for pancreatic cancer — we were able to take that proof-of-concept to&amp;nbsp;business validation as a finalist in the MIT $100K&amp;nbsp;Entrepreneurship Competition, and incubate it.”&lt;/p&gt;
 
-&lt;p&gt;With support from MIT’s Deshpande Center for Technological Innovation, 
-00004000
-Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop&amp;nbsp;their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are already underway.&lt;/p&gt;
+&lt;p&gt;With support from MIT’s Deshpande Center for Technological Innovation, Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop&amp;nbsp;their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are already underway.&lt;/p&gt;
 
 &lt;p&gt;Such clinical impact is usually a long way off for university researchers. The typical “bench to bedside” trajectory is on the order of a decade or more; to have so many projects in pre-clinical studies, pursuing FDA approval for clinical trials in such a short period of time is a testament to the Bridge Project’s goal of meeting the most urgent, unmet needs of cancer care.&lt;/p&gt;
 
@@ -2932,7 +2954,9 @@ Indolfi and her team were able to de-risk the project and scale it up, launching
 
 
 
-&lt;p&gt;The researchers’ new strategy is based on technology that Manalis and others in his lab have developed over the past several years to weigh cells. Their device, known as a suspended microchannel resonator (SMR), can measure cell masses 10 to 100 times more accurately than any other technique, allowing the researchers to precisely calculate growth rates of single cells over short periods of time.&lt;/p&gt;
+&lt;p&gt;The researchers’ new strategy is based on technology that Manalis and others in his lab ha
+00004000
+ve developed over the past several years to weigh cells. Their device, known as a suspended microchannel resonator (SMR), can measure cell masses 10 to 100 times more accurately than any other technique, allowing the researchers to precisely calculate growth rates of single cells over short periods of time.&lt;/p&gt;
 
 
 
@@ -2991,9 +3015,7 @@ Indolfi and her team were able to de-risk the project and scale it up, launching
     <description>Strain of intestinal bacteria can stop a high-salt diet from inducing inflammatory response linked to hypertension.</description>
      <pubDate>Wed, 15 Nov 2017 13:00:00 -0500</pubDate>
  <dc:creator>Anne Trafton | MIT News Office</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/gut-microbes-can-protect-against-high-blood-pr
-00004000
-essure-1115</guid>
+ <guid isPermaLink="true">http://news.mit.edu/2017/gut-microbes-can-protect-against-high-blood-pressure-1115</guid>
 <content:encoded>&lt;p&gt;Microbes living in your gut may help protect against the effects of a high-salt diet, according to a new study from MIT.&lt;/p&gt;
 
 
@@ -3120,7 +3142,9 @@ essure-1115</guid>
 
 
 
-&lt;p&gt;For the opsin, the researchers used a protein called CoChR, which the Boyden lab discovered in 2014. They chose this molecule because it generates a very strong electric current in response to light (about 10 times stronger than that produced by channelrhodopsin-2, the first protein used for optogenetics).&lt;/p&gt;
+&lt;p&gt;For the opsin, the researchers used a protein called CoC
+00002054
+hR, which the Boyden lab discovered in 2014. They chose this molecule because it generates a very strong electric current in response to light (about 10 times stronger than that produced by channelrhodopsin-2, the first protein used for optogenetics).&lt;/p&gt;
 
 
 
@@ -3177,9 +3201,7 @@ essure-1115</guid>
     <link>http://news.mit.edu/2017/synthetic-circuits-can-harvest-light-energy-solar-power-1113</link>
     <description>Novel structures made with DNA scaffolds could be used to create solar-powered materials.</description>
      <pubDate>Mon, 13 Nov 2017 10:59:59 -0500</pubDate>
- <dc:cre
-000024CD
-ator>Anne Trafton | MIT News Office</dc:creator>
+ <dc:creator>Anne Trafton | MIT News Office</dc:creator>
  <guid isPermaLink="true">http://news.mit.edu/2017/synthetic-circuits-can-harvest-light-energy-solar-power-1113</guid>
 <content:encoded>&lt;p&gt;By organizing pigments on a DNA scaffold, an MIT-led team of researchers has designed a light-harvesting material that closely mimics the structure of naturally occurring photosynthetic structures.&lt;/p&gt;
 
@@ -3205,7 +3227,9 @@ ator>Anne Trafton | MIT News Office</dc:creator>
 
 
 
-&lt;p&gt;While scientists have developed reliable techniques for carrying electrons (such as semiconductors) and photons (fiber optics), coming up with ways to control excitons has proven more challenging.&lt;/p&gt;
+&lt;p&gt;While scientists have developed reliable techniques for carrying electrons (such as semiconductors) and photons (fiber optics), coming up with ways to control excitons has proven more challenging
+00001B31
+.&lt;/p&gt;
 
 
 
